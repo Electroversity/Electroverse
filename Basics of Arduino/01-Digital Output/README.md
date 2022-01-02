@@ -11,6 +11,7 @@
     <li>LED</li>
     <li>Resistor 1k</li>
     <li>Jumper Wires</li>
+    <li>Arduino UNO</li>
   </ol>
 </div>
 
