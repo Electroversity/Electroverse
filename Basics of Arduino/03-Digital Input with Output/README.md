@@ -20,19 +20,20 @@
 ## CODE
 ```C++
 const int led=3;
+const int Button=2;
+int buttonState=0;
 
 void setup(){
-	pinMode(led, OUTPUT);
+  pinMode(led,OUTPUT);
+  pinMode(Button,INPUT);
 }
 
 void loop(){
-  for(int brightness=1;brightness<=255;brightness++){
-    analogWrite(led,brightness);
-    delay(10);
-  }
-  for(int brightness=255;brightness>0;brightness--){
-  	analogWrite(led,brightness);
-    delay(10);
+  buttonState=digitalRead(Button);
+  if(buttonState==HIGH){
+  	digitalWrite(led,HIGH);
+  }else{
+  	digitalWrite(led,LOW);
   }
 }
 ```
