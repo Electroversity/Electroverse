@@ -1,12 +1,23 @@
 <h1>Analog Input</h1>
 
 <div>
-    <img width=450 align=right src="https://github.com/Curovearth/Dive-into-Electronics/blob/main/Basics%20of%20Arduino/05-Analog%20Input/Analog%20Input.png">
+    <img width=550 align=right src="https://github.com/Curovearth/Dive-into-Electronics/blob/main/Basics%20of%20Arduino/05-Analog%20Input/Analog%20Input.png">
     <p>To read an analog signal through an Arduino, Analog to Digital Conversion or ADC is required. The arduino has 10bit ADC which means it scales an analog signal in a range of 0-1023.<br><br>
       An analog input signal is taken through the Analog input pins A0-A5 of the arduino. In this example an analog input is taken and it is displayed on the LED where you can observe by the delay in glowing the LED.<br><br>
   Have Fun !</p>
+    
+  <h3>Components Required</h3>
+  <ol>
+    <li>LED</li>
+    <li>Resistor 220</li>
+    <li>Potentiometer</li>
+    <li>Jumper Wires</li>
+    <li>Arduino UNO</li>
+  </ol>
+    
 </div>
-<br><br><br><br>
+
+
   
 ## CODE
 ```C++
