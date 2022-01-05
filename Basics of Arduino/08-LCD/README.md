@@ -1,4 +1,4 @@
-<h1>RGB Led</h1>
+<h1>Liquid Crystal Display</h1>
 
 <div>
     <img width=600 align=right src="https://github.com/Curovearth/Dive-into-Electronics/blob/main/Basics%20of%20Arduino/08-LCD/LCD.png">
