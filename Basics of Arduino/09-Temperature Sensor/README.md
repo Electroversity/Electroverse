@@ -1,19 +1,19 @@
-<h1>RGB Led</h1>
+<h1>Temperature Sensor</h1>
 
 <div>
-    <img width=500 align=right src="https://github.com/Curovearth/Dive-into-Electronics/blob/main/Basics%20of%20Arduino/07-Servo%20Motor/Servo%20motor.png">
-    <p>A servo is an actuator that rotates to a precise angle through command. The servo example included in this rotates between 0 to 180 degree. It can move to any angle between 0 to 180 degrees.<br><br>
-      A servo receives the command from the arduino, moves the commanded angle and stops there. Servo has three pin interface:
+    <img width=500 align=right src="https://github.com/Curovearth/Dive-into-Electronics/blob/main/Basics%20of%20Arduino/09-Temperature%20Sensor/Temperature%20sensor.png">
+    <p>A temperature sensor is a 3 pin sensor, operated on 4 to 20 volt. It gives output in voltage according to the temperature. 10 milli volts per degree Celsius is the output format of the sensor.<br><br>
+        The 3 pins signify (from right to left)
       <ol>
-        <li>Brown: GND</li>
-        <li>Red: 5V</li>
-        <li>Orange: Signal Input</li>
+        <li>Power</li>
+        <li>Signal Input</li>
+        <li>Ground</li>
       </ol>
   Have Fun !</p>
     
   <h3>Components Required</h3>
   <ol>
-    <li>1x Servo Motor</li>
+    <li>1x Temperature Sensor</li>
     <li>Jumper Wires</li>
     <li>Arduino UNO</li>
   </ol>
@@ -25,20 +25,58 @@
 ## CODE
 ```C++
 
-#include <Servo.h>      //including the servo library
+const int sensor = 1;
+int input;
 
-Servo servo_1;          //naming the servo
 
 void setup(){
-  servo_1.attach(8);    //attaching the servo to digital pin 8 for signal input
+  Serial.begin(9600);
 }
 
 void loop(){
-  servo_1.write(45);    //rotate 45
-  delay(1000);
-  servo_1.write(180);
-  delay(1000);
+  
+  //125 is the max
+  //-40 is the min
+  
+  
+  input = map(((analogRead(sensor) - 20) * 3.04), 0, 1023, -40, 125);
+  /*---Working----
+  	here x=(analogRead(sensor)-20)*3.04
+    
+    so map returns 
+    
+    (x-0)*(125-(-40))
+    __________________ = Input
+    
+  	(1023-0)+(-40)
+  */
+  
+  
+  Serial.println(input);
+  
 }
 
+```
 
+## Mapping
+
+### Syntax
+```
+map(value, fromLow, fromHigh, toLow, toHigh)
+```
+### Parameters
+
+<ul>
+    <li>value: the number to map.</li>
+    <li>fromLow: the lower bound of the value’s current range.</li>
+    <li>fromHigh: the upper bound of the value’s current range.</li>
+    <li>toLow: the lower bound of the value’s target range.</li>
+    <li>toHigh: the upper bound of the value’s target range.</li>
+</ul>
+
+
+```C++
+long map(long x, long in_min, long in_max, long out_min, long out_max) {
+  return (x - in_min) * (out_max - out_min) / (in_max - in_min) + out_min;
+}
 ```
