@@ -1,4 +1,4 @@
-<h1>RGB Led</h1>
+<h1>Servo Motor</h1>
 
 <div>
     <img width=500 align=right src="https://github.com/Curovearth/Dive-into-Electronics/blob/main/Basics%20of%20Arduino/07-Servo%20Motor/Servo%20motor.png">
