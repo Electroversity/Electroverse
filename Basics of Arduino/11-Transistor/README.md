@@ -9,7 +9,7 @@
         
         | Collector | Base | Emitter |
         | --- | --- | --- |
-        Hello world
+        
         
   Have Fun !</p>
     
