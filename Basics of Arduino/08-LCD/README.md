@@ -1,22 +1,28 @@
 <h1>RGB Led</h1>
 
 <div>
-    <img width=500 align=right src="https://github.com/Curovearth/Dive-into-Electronics/blob/main/Basics%20of%20Arduino/06-RGB%20Led/RGB%20Led.png">
-    <p>An RGB led is a combination of 3 led's i.e., Red, Green and Blue. These three colors can make any color. By varying supplied voltages to RGB led's different colors can be formed.<br><br>
-      An RGB Led has 4 pin interface. There is a common pins for all the three Led's. An RGB led can be of two types:
-      <ol>
-        <li>Common Anode: Anode[+] pin is common</li>
-        <li>Common Anode: Cathode[-/GND] pin is common</li>
-      </ol>
+    <img width=600 align=right src="https://github.com/Curovearth/Dive-into-Electronics/blob/main/Basics%20of%20Arduino/08-LCD/LCD.png">
+    <p>Here we deal with 16x2 character type LCD display.<br><br>
+        
   Have Fun !</p>
     
   <h3>Components Required</h3>
   <ol>
-    <li>1x RGB LED</li>
-    <li>3x Resistor 1k</li>
+    <li>1x Potentiometer</li>
+    <li>1x Resistor 1k</li>
     <li>Jumper Wires</li>
+    <li>LCD Display</li>
     <li>Arduino UNO</li>
   </ol>
+    <br><br>
+
+A 16x2 character LCD has 16 pin interface as mentioned below:
+    
+| GND | VCC | VEE | RS | RW | E | D0 | D1 | D2 | D3 | D4 | D5 | D6 | D7 | LED+ | LED- | 
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | 
+| GND | VCC | Contrast Adj | Register Select(Digital pin) | Read Write | Data Enable(Digital pin) | D0 | D1 | D2 | D3 | D4(Digital Pin) | D5(Digital Pin) | D6(Digital Pin) | D7(Digital Pin) | LED+ | LED-(Use a Resistor) | 
+    
+ 
     
 </div>
 
@@ -25,32 +31,25 @@
 ## CODE
 ```C++
 
-const int red_led = 11;
-const int green_led = 10;
-const int blue_led = 9;
+// include the library code:
+#include <LiquidCrystal.h>
 
-void setup(){
-  pinMode(red_led,OUTPUT);
-  pinMode(green_led,OUTPUT);
-  pinMode(blue_led,OUTPUT);
+// initialize the library with the numbers of the interface pins
+LiquidCrystal lcd(12, 11, 5, 4, 3, 2);
+
+void setup() {
+  // set up the LCD's number of columns and rows:
+  lcd.begin(16, 2);
+  // Print a message to the LCD.
+  lcd.print("hello, world!");
 }
 
-void loop(){
-  RGB(255,0,0);		//red
-  delay(1000);
-  RGB(0,255,0);		//green
-  delay(1000);
-  RGB(0,0,255);		//blue
-  delay(1000);		
-}
-
-//Writing the RGB function
-
-void RGB(int redVal,int greenVal,int blueVal){
-  analogWrite(red_led,redVal);
-  analogWrite(green_led,greenVal);
-  analogWrite(blue_led,blueVal);
-  
+void loop() {
+  // set the cursor to column 0, line 1
+  // (note: line 1 is the second row, since counting begins with 0):
+  lcd.setCursor(0, 1);
+  // print the number of seconds since reset:
+  lcd.print(millis() / 1000);
 }
 
 
