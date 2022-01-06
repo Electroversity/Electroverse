@@ -1,11 +1,11 @@
-const int DataPin = 4;
-const int ClockPin = 3;
-const int LatchPin = 2;
+const int DataPin = 4;    // DS-Serial Data Input
+const int ClockPin = 3;   // SHCP-Shift Register Clock Input
+const int LatchPin = 2;   // STCP-Storage Register Clock Input
 
 void setup(){
   pinMode(DataPin, OUTPUT);
   pinMode(ClockPin, OUTPUT);
-  pinMode(LatchPin, OUTPUT);//stcp
+  pinMode(LatchPin, OUTPUT);  
 }
 
 void loop(){
