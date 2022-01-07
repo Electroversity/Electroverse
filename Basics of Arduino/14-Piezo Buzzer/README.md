@@ -1,19 +1,16 @@
 <h1>Piezo Buzzer</h1>
 
 <div>
-    <img width=500 align=right src="https://github.com/Curovearth/Dive-into-Electronics/blob/main/Basics%20of%20Arduino/07-Servo%20Motor/Servo%20motor.png">
-    <p>A servo is an actuator that rotates to a precise angle through command. The servo example included in this rotates between 0 to 180 degree. It can move to any angle between 0 to 180 degrees.<br><br>
-      A servo receives the command from the arduino, moves the commanded angle and stops there. Servo has three pin interface:
-      <ol>
-        <li>Brown: GND</li>
-        <li>Red: 5V</li>
-        <li>Orange: Signal Input</li>
-      </ol>
+    <img width=400 align=right src="https://github.com/Curovearth/Dive-into-Electronics/blob/main/Basics%20of%20Arduino/14-Piezo%20Buzzer/buzzer.png">
+    <p>A piezo buzzer is a device that is used to generate beep sound(generally a warning or alert in embedded system). It is a two leg device where the longer leg is positive. If voltage is supplied it generates beep sound. Through analog write volume of beep can be controlled.<br><br>
+      If a buzzer is switched with different time intervals it generates a melody.<br><br>
   Have Fun !</p>
     
   <h3>Components Required</h3>
   <ol>
-    <li>1x Servo Motor</li>
+    <li>1x Piezo Buzzer</li>
+    <li>1x LED</li>
+    <li>1x Resistor 1k</li>
     <li>Jumper Wires</li>
     <li>Arduino UNO</li>
   </ol>
