@@ -3,7 +3,7 @@
 <div>
     <img width=400 align=right src="https://github.com/Curovearth/Dive-into-Electronics/blob/main/Basics%20of%20Arduino/14-Piezo%20Buzzer/buzzer.png">
     <p>A piezo buzzer is a device that is used to generate beep sound(generally a warning or alert in embedded system). It is a two leg device where the longer leg is positive. If voltage is supplied it generates beep sound. Through analog write volume of beep can be controlled.<br><br>
-      If a buzzer is switched with different time intervals it generates a melody.
+      If a buzzer is switched with different time intervals it generates a melody.<br><br>
   Have Fun !</p>
     
   <h3>Components Required</h3>
