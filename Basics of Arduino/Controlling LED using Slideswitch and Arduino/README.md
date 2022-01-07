@@ -1,4 +1,4 @@
-<h1>Analog Output</h1>
+<h1>Controlling LED using Slideswitch and Arduino</h1>
 
 <div>
   <img width=450 align=right src="https://github.com/Zayd1602/Dive-into-Electronics/blob/main/Basics%20of%20Arduino/Controlling%20LED%20using%20Slideswitch%20and%20Arduino/circuit.jpg">
