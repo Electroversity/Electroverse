@@ -1,7 +1,7 @@
 <h1>Liquid Crystal Display</h1>
 
 <div>
-    <img width=600 align=right src="https://github.com/Curovearth/Dive-into-Electronics/blob/main/Basics%20of%20Arduino/08-LCD/LCD.png">
+    <img width=600 align=right src="https://github.com/Curovearth/Dive-into-Electronics/blob/main/Basics%201/08-LCD/LCD.png">
     <p>Here we deal with 16x2 character type LCD display.<br><br>
         
   Have Fun !</p>

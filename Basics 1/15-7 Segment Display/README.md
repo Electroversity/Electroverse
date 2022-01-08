@@ -1,7 +1,7 @@
 <h1>7 Segment Display</h1>
 
 <div>
-    <img width=500 align=right src="https://github.com/Curovearth/Dive-into-Electronics/blob/main/Basics%20of%20Arduino/15-7%20Segment%20Display/7%20segment%20display.gif">
+    <img width=500 align=right src="https://github.com/Curovearth/Dive-into-Electronics/blob/main/Basics%201/15-7%20Segment%20Display/7%20segment%20display.gif">
     <p>A seven segment display is a simple displaying device that uses 8 LED's to display decimal numerals. It is generally used in digital clocks, calculators, electronic meters and other devices that displays numerical information.<br><br>
         
      

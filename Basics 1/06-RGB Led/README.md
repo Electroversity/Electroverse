@@ -1,7 +1,7 @@
 <h1>RGB Led</h1>
 
 <div>
-    <img width=500 align=right src="https://github.com/Curovearth/Dive-into-Electronics/blob/main/Basics%20of%20Arduino/06-RGB%20Led/RGB%20Led.png">
+    <img width=500 align=right src="https://github.com/Curovearth/Dive-into-Electronics/blob/main/Basics%201/06-RGB%20Led/RGB%20Led.png">
     <p>An RGB led is a combination of 3 led's i.e., Red, Green and Blue. These three colors can make any color. By varying supplied voltages to RGB led's different colors can be formed.<br><br>
       An RGB Led has 4 pin interface. There is a common pins for all the three Led's. An RGB led can be of two types:
       <ol>

@@ -1,7 +1,7 @@
 <h1>Shift Register</h1>
 
 <div>
-    <img width=500 align=right src="https://github.com/Curovearth/Dive-into-Electronics/blob/main/Basics%20of%20Arduino/13-Shift%20Register/shift%20register.png">
+    <img width=500 align=right src="https://github.com/Curovearth/Dive-into-Electronics/blob/main/Basics%201/13-Shift%20Register/shift%20register.png">
     <p>A Shift Register is used for serial input and parallet output. The arduino has limitation of Input/output pins, with the help of shift register output pins can be increased. One shift register which we have used here i.e., 74HC595 is controlled through 3 pins of an arduino and it gives 8 output pins. Multiple shift registers can be attached together all of them are controlled through the same 3 pins.<br><br>
     <ul>
     <li>The Latch Pin of a shift register is set to zero before pushing the data</li>
@@ -51,7 +51,7 @@ void loop(){
 
 <h2>PROTEUS DIAGRAM</h2>
 
-<img align=right src="https://github.com/Curovearth/Dive-into-Electronics/blob/main/Basics%20of%20Arduino/13-Shift%20Register/Proteus-Shift%20Register.png">
+<img align=right src="https://github.com/Curovearth/Dive-into-Electronics/blob/main/Basics%201/13-Shift%20Register/Proteus-Shift%20Register.png">
 <br><br>
 
 
