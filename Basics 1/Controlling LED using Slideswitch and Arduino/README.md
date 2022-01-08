@@ -1,7 +1,7 @@
 <h1>Controlling LED using Slideswitch and Arduino</h1>
 
 <div>
-  <img width=450 align=right src="https://github.com/Zayd1602/Dive-into-Electronics/blob/main/Basics%201/Controlling%20LED%20using%20Slideswitch%20and%20Arduino/circuit.jpg">
+  <img width=450 align=right src="https://github.com/Zayd1602/Dive-into-Electronics/blob/main/Basics%20of%20Arduino/Controlling%20LED%20using%20Slideswitch%20and%20Arduino/circuit.jpg">
   <p>Here we'll control the LED using a slideswitch. 
   </p>
   <p>If the switch is ON, the LED will be ON and if the switch is OFF, then the LED will be OFF. The mode (voltage level) of the switch is read by pin 12 and the Arduino takes action according to the code.<br><br>
