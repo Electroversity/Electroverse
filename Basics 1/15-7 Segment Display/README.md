@@ -1,22 +1,26 @@
 <h1>7 Segment Display</h1>
 
 <div>
-    <img width=500 align=right src="https://github.com/Curovearth/Dive-into-Electronics/blob/main/Basics%20of%20Arduino/07-Servo%20Motor/Servo%20motor.png">
-    <p>A servo is an actuator that rotates to a precise angle through command. The servo example included in this rotates between 0 to 180 degree. It can move to any angle between 0 to 180 degrees.<br><br>
-      A servo receives the command from the arduino, moves the commanded angle and stops there. Servo has three pin interface:
-      <ol>
-        <li>Brown: GND</li>
-        <li>Red: 5V</li>
-        <li>Orange: Signal Input</li>
-      </ol>
+    <img width=500 align=right src="https://github.com/Curovearth/Dive-into-Electronics/blob/main/Basics%20of%20Arduino/15-7%20Segment%20Display/7%20segment%20display.gif">
+    <p>A seven segment display is a simple displaying device that uses 8 LED's to display decimal numerals. It is generally used in digital clocks, calculators, electronic meters and other devices that displays numerical information.<br><br>
+        
+     
   Have Fun !</p>
     
   <h3>Components Required</h3>
   <ol>
-    <li>1x Servo Motor</li>
+    <li>1x 7 segment display</li>
+    <li>8x Resistor 1k ohm</li>
     <li>Jumper Wires</li>
     <li>Arduino UNO</li>
   </ol>
     
 </div>
 
+| col1 | col2 | col3 |
+| --- | --- | --- |
+| x | top | x |
+| top-left | x | top-right |
+| x | middle | x |
+| bottom-left | x | bottom-right |
+| x | bottom | x |
