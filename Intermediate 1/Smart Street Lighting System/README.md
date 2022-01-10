@@ -1,4 +1,4 @@
-<h1>Smart Security Alarm System</h1>
+<h1>Smart Street Lighting System</h1>
 
 <div>
     <p>This experiment is going to work on the principle that once the ambience turns dim/dark the LDR will sense that and will appropriately output a sensor value to the microcontroller. 
