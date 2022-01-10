@@ -1,15 +1,15 @@
-<h1>Blinking LED's Simultaneously</h1>
+<h1>Blinking LEDs Simultaneously</h1>
 
 <div>
-    <img width=500 align=right src="https://github.com/Curovearth/Dive-into-Electronics/blob/main/Basics%202/01-Blinking%20LED's%20Simultaneously/led's.png">
-    <p>Using two led's and both of them needs to blink on a time interval of 1 second but when one is on the other one should be off<br><br>
+    <img width=500 align=right src="https://github.com/Curovearth/Dive-into-Electronics/blob/main/Basics%202/01-Blinking%20LEDs%20Simultaneously/LEDs.png">
+    <p>Using two LEDs and both of them needs to blink on a time interval of 1 second but when one is on the other one should be off<br><br>
       Resistors used to decrease the flow of excess amount of current.
       
   Have Fun !</p>
     
   <h3>Components Required</h3>
   <ol>
-    <li>2x LED's</li>
+    <li>2x LEDs</li>
     <li>2x Resistor of 220 ohms</li>
     <li>Jumper Wires</li>
     <li>Arduino UNO</li>

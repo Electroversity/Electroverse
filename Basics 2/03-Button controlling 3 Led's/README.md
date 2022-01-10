@@ -1,16 +1,16 @@
-<h1>Button controlling 3 Led's</h1>
+<h1>Button controlling 3 LEDs</h1>
 
 <div>
-    <img width=380 align=right src="https://github.com/Curovearth/Dive-into-Electronics/blob/main/Basics%202/03-Button%20controlling%203%20Led's/button%20and%20led's.png">
-    <p>Using led's and a button for making the led on when pressed and off when not pressed. Here, regardless of what side the resistor is placed on, it limits the amount of current that flows through LED.<br><br>
+    <img width=380 align=right src="https://github.com/Curovearth/Dive-into-Electronics/blob/main/Basics%202/03-Button%20controlling%203%20LEDs/button%20and%20LEDs.png">
+    <p>Using LEDs and a button for making the led on when pressed and off when not pressed. Here, regardless of what side the resistor is placed on, it limits the amount of current that flows through LED.<br><br>
         
       
   Have Fun !</p><br>
     
   <h3>Components Required</h3>
   <ol>
-    <li>2x LED's</li>
-    <li>2x Resistor of 1k ohms connected to led's</li>
+    <li>2x LEDs</li>
+    <li>2x Resistor of 1k ohms connected to LEDs</li>
     <li>1x Resistor of 60k ohms connected to button</li>
     <li>Jumper Wires</li>
     <li>Arduino UNO</li>

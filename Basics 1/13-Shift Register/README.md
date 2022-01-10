@@ -7,7 +7,7 @@
     <li>The Latch Pin of a shift register is set to zero before pushing the data</li>
     <li>After pushing, the latch pin is set to HIGH which makes pushing data complete</li>
     <li>Whatever data is pushed is set on shift register's output</li>
-    <li>Here in our example, the output can be seen with the glow of all LED's at the same time</li>
+    <li>Here in our example, the output can be seen with the glow of all LEDs at the same time</li>
     </ul>
     
   Have Fun !</p>
