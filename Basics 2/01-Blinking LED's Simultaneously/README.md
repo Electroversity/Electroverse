@@ -1,9 +1,9 @@
 <h1>Blinking LEDs Simultaneously</h1>
 
 <div>
-    <img width=500 align=right src="https://github.com/Curovearth/Dive-into-Electronics/blob/main/Basics%202/01-Blinking%20LEDs%20Simultaneously/LEDs.png">
+    <img width=400 align=right src="https://github.com/Curovearth/Dive-into-Electronics/blob/main/Basics%202/01-Blinking%20LED's%20Simultaneously/led's.png">
     <p>Using two LEDs and both of them needs to blink on a time interval of 1 second but when one is on the other one should be off<br><br>
-      Resistors used to decrease the flow of excess amount of current.
+      Resistors used to decrease the flow of excess amount of current. Here we follow a different approach in setting up of our program wherein we aim at making different void functions for the overall functioning and it might help us later to have ease into it.
       
   Have Fun !</p>
     
@@ -34,11 +34,11 @@ void loop(){
   glow2();
   delay(1000);
 }
-void glow1(){
+void glow1(){               //Function 1 for led1
   digitalWrite(led1,HIGH);
   digitalWrite(led2,LOW);
 }
-void glow2(){
+void glow2(){               //Funtion 2 for led2
   digitalWrite(led1,LOW);
   digitalWrite(led2,HIGH);
 }
