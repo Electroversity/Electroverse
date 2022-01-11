@@ -1,12 +1,19 @@
-<h1>Potentiometer control over multiple LEDs</h1>
+<h1>Potentiometer control - Opposite Effect</h1>
 
 <div>
-    <img width=380 align=right src="https://github.com/Curovearth/Dive-into-Electronics/blob/main/Basics%202/03-Button%20controlling%203%20LEDs/button%20and%20LEDs.png">
-    <p>Using LEDs and a button for making the led on when pressed and off when not pressed. Here, regardless of what side the resistor is placed on, it limits the amount of current that flows through LED.<br><br>
-        
+    <img width=450 align=right src="https://github.com/Curovearth/Dive-into-Electronics/blob/main/Basics%202/04-Potentiometer%20control%20of%202%20Leds/potentiometer%20control.png">
+    <p>In this program what we are doing is trying to display an opposite effect on Leds with a potentiometer control over them. Now by opposite effect we mean to display that when potentiometer reaches maximum value one of the led glows while the other dims out completely.<br><br>
+        Make sure to remember the pins of Potentiometer i.e.,</p>
+</div>       
+ 
+ 
+| Terminal 1 | Wiper | Terminal 2 |
+| --- | --- | --- |
+| (+) | Analog Input | (-) |
       
-  Have Fun !</p><br>
-    
+Have Fun !
+
+<div>
   <h3>Components Required</h3>
   <ol>
     <li>2x LEDs</li>
@@ -22,30 +29,22 @@
   
 ## CODE
 ```C++
-const int led1 = 5;
-const int led2 = 4;
-const int led3 = 3;
-int buttonState = 0;
-int Button = 2;
+const int analog_pot = A1;
+const int LED1 = 6;
+const int LED2 = 7;
+int inputVal = 0;
 
-void setup(){
-  pinMode(led1,OUTPUT);
-  pinMode(led2,OUTPUT);
-  pinMode(led3,OUTPUT);
-  pinMode(Button,INPUT);
+void setup() {
+  pinMode (LED1, OUTPUT);
+  pinMode (LED2, OUTPUT);
 }
 
-void loop(){
-  buttonState = digitalRead(Button);
-  if(buttonState == HIGH){
-    digitalWrite(led1,HIGH);
-    digitalWrite(led2,HIGH);
-    digitalWrite(led3,HIGH);
-  }else{
-    digitalWrite(led1,LOW);
-    digitalWrite(led2,LOW);
-    digitalWrite(led3,LOW);
-  }
+void loop() {
+  inputVal = analogRead(analog_pot);
+  analogWrite(LED1, inputVal/4);
+  analogWrite(LED2, (1023-inputVal)/4);		
+  //to display the opposite effect since the maximum value of analogread reaches 1023
+  
 }
 
 ```
