@@ -30,6 +30,7 @@
 </div>
 
 ##CODE
+```
 void loop() {                                                         //important part of the code
   lcd.home();
   // Get 16 characters so that we can display on the LCD
@@ -44,3 +45,4 @@ void loop() {                                                         //importan
 
   delay(500);
 }
+```
