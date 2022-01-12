@@ -29,7 +29,7 @@
     
 </div>
 
-##CODE
+## CODE
 ```
 void loop() {                                                         //important part of the code
   lcd.home();
