@@ -28,3 +28,21 @@
     
     
 </div>
+
+## CODE
+```
+void loop() {                                                         //important part of the code
+  lcd.home();
+  // Get 16 characters so that we can display on the LCD
+  toShow = message.substring(ii,ii+16);
+  // print the number of seconds since reset:
+  lcd.print(toShow);
+  ii = ii + 2;
+  // We have to reset ii after there is less text displayed.
+  if(ii>(strLength-16)) {
+    ii = 0;
+   }
+
+  delay(500);
+}
+```
