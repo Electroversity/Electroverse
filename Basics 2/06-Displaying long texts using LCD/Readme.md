@@ -1,7 +1,7 @@
 <h1>Displaying long texts using LCD</h1>
 
 <div>
-    <img width=650 align=right src="https://user-images.githubusercontent.com/72257400/149177975-6140ce73-676e-4c73-b64a-e7d498873d1e.gif">
+    <img width=650 align=right src="https://github.com/yatharthagr7/Dive-into-Electronics/blob/main/Basics%202/06-Displaying%20long%20texts%20using%20LCD/lcd.gif?raw=true">
     <p>The following circuit represents a long text or we can say paragraph which is displayed on the LCD.<br><br> 
   </p>
     <p>Have Fun !</p>
