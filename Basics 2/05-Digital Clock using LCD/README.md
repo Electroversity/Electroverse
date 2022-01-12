@@ -10,7 +10,7 @@
   <h3>Components Required</h3>
   <ol>
     <li>1x LCD</li>
-    <li>1x Resistor 1k ohm</li>
+    <li>1x Resistor 220 ohm</li>
     <li>1x Potentiometer</li>
     <li>Jumper Wires</li>
     <li>Arduino UNO</li>
