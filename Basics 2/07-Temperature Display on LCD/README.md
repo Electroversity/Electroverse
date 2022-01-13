@@ -1,8 +1,8 @@
 <h1>Digital Clock using LCD</h1>
 
 <div>
-    <img width=650 align=right src="https://github.com/Curovearth/Dive-into-Electronics/blob/main/Basics%202/05-Digital%20Clock%20using%20LCD/clock.gif">
-    <p>The following circuit represents a Digital Clock which is displayed on the LCD.<br><br> Keep in mind the program for this doesn't automaticall detects the time rather we have specified the current time and then it increases the value like a normal digital clock.</p>
+    <img width=650 align=right src="https://github.com/Curovearth/Dive-into-Electronics/blob/main/Basics%202/07-Temperature%20Display%20on%20LCD/tempdisplay.gif">
+    <p>The following circuit represents the situation of an industrial appliance where we warn the workers with the glow of LED for different temperature ranges and also further show the result on to the LCD screen.<br><br>This further helps the workers to identify the temperature and the working condition of the appliance.</p>
     <p>Have Fun !</p>
 </div>       
  
@@ -10,8 +10,9 @@
   <h3>Components Required</h3>
   <ol>
     <li>1x LCD</li>
-    <li>1x Resistor 220 ohm</li>
+    <li>4x Resistor 220 ohm</li>
     <li>1x Potentiometer</li>
+    <li>1x TMP36 temperature sensor</li>
     <li>Jumper Wires</li>
     <li>Arduino UNO</li>
   </ol>
@@ -33,23 +34,18 @@
 <b>Following is the important part of code that determines the increase of hour, minute and seconds</b>
 
 ```C++
-//append the seconds by 1 
-  s=s+1;
-  
-  //depending on the seconds value change minute and hour
-  if(s==60){
-  	s=0;
-  	m=m+1;	//when s reaches 60 increase the minute
-  }
-  if(m==60){
-  	m=0;
-  	h=h+1;	//when minute reaches 60 increase the hour
-  }
-  if(h==13){
-  	h=1;	//when hour reaches 13 h=1 and flag changes
-  	flag=flag+1;
- 	if(flag==2)
-   		flag=0;
-  }
+    if(celsius<-10){           					//System is Too Cold  
+      	very_cold_system();
+		lcd.print("!COLD!");
+    }else if(celsius>60){      					//System at Very High Temperature
+        very_hot_system();
+      	lcd.print("!HOT!");
+      	lcd.setCursor(14,0);
+      	lcd.print(" ");
+    }else if((celsius>=-10) && (celsius<=60)){   //System at normal conditions
+        normal_system();
+      	lcd.print("Normal");
+    }else {
+    }
 
 ```
