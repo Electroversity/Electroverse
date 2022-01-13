@@ -1,7 +1,7 @@
 <h1>Displaying value of force using LCD</h1>
 
 <div>
-    <img width=650 align=right src="https://user-images.githubusercontent.com/72257400/149339411-b05bb510-20e1-44ec-a389-6e133e727836.gif">
+    <img width=650 align=right src="https://github.com/yatharthagr7/Dive-into-Electronics/blob/main/Basics%202/10-Displaying%20value%20of%20force%20using%20LCD/force.gif">
     <p>The following circuit represents a Force sensor which is being giving the value of force as input ,which is displayed on the LCD.<br><br> 
   </p>
     <p>Have Fun !</p>
