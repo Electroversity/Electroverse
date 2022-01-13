@@ -6,7 +6,7 @@
       
   Have Fun !</p>
     <br>
-    <img width=750 align=right src="https://github.com/Curovearth/Dive-into-Electronics/blob/main/Intermediate%202/02%20Smart%20Security%20Alarm%20System/circuit.png">
+    <img width=750 align=right src="https://github.com/Curovearth/Dive-into-Electronics/blob/main/Intermediate%202/02-Smart%20Security%20Alarm%20System/circuit.png">
   <h3>Components Required</h3>
   <ol>
     <li>RGB LED</li>
