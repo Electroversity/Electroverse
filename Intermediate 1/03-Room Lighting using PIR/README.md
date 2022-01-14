@@ -1,8 +1,8 @@
-<h1>Room Lighting using PIR</h1>
+<h1>Staircase Lighting using PIR</h1>
 
 <div>
-    <img width=600 align=right src="https://github.com/Curovearth/Dive-into-Electronics/blob/main/Basics%201/17-PIR%20sensor%20with%20LEDS/pir.gif">
-    <p>The following is an attempt to interface PIR or Passive Infrared sensor with LEDS where we detect any movement with the help of PIR sensor and accordingly glow the LEDs while no glow would be observed when no movement is detected.<br></br>The detection is further printed on to the serial monitor as displayed in the gif.</p>
+    <img width=600 align=right src="https://github.com/Curovearth/Dive-into-Electronics/blob/main/Intermediate%201/03-Room%20Lighting%20using%20PIR/lighting.gif">
+    <p>The following is an attempt to interface PIR or Passive Infrared sensor with a Bulb indicating an <i>automatic staircase lighting system</i> where we detect any movement with the help of PIR sensor and accordingly glow the Bulb while no glow would be observed when no movement is detected.<br></br>The detection is further printed on to the serial monitor as displayed in the gif.</p>
     
   <h3>PIR configuration</h3>
   
@@ -16,6 +16,7 @@
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | 
 | GND | VCC | Contrast Adj | Register Select(Digital pin) | Read Write(GND) | Data Enable(Digital pin) | D0 | D1 | D2 | D3 | D4(Digital Pin) | D5(Digital Pin) | D6(Digital Pin) | D7(Digital Pin) | LED+ | LED-(Use a Resistor) | 
     
+  <img width=700 align=right src="https://github.com/Curovearth/Dive-into-Electronics/blob/main/Intermediate%201/03-Room%20Lighting%20using%20PIR/connection.png">  
   <h3>Components Required</h3>
   <ol>
     <li>1x PIR sensor</li>
@@ -27,34 +28,30 @@
     <li>Arduino UNO</li>
   </ol>
     
-</div>
-
-
+</div><br>
   
-## CODE
+<h2>CODE</h2>
 
 <b>Important part of the code</b>
 
 ```C++
 
-val = digitalRead(sensor);	//reading the value from sensor
+val = digitalRead(sensor);
   
-  /*Here additionally we are trying to detect any movement which happens
-  and then further print it in the serial monitor.*/
-  
-  if(val==HIGH){				
-    digitalWrite(leds,HIGH);        //glowing the LEDs
-    delay(500);                     //adding a delay of 500ms
+  if(val==HIGH){
+    digitalWrite(bulb,HIGH);
+    delay(3000);        //3s because we want to give the user sometime to look into the stairs as well
     if(state==0){
-      Serial.println("Alert !! Movement");      //movement observed
+      lcd.setCursor(0,0);
+      lcd.print("Lights ON!");
       state=1;
     }
-    
   }else{
-    digitalWrite(leds,LOW);
-    delay(500);
+    digitalWrite(bulb,LOW);
+    delay(1000);
     if(state==1){
-      Serial.println("Everything is Normal");
+      lcd.setCursor(0,0);
+      lcd.print("Lights OFF!");
       state=0;
     }
   }
