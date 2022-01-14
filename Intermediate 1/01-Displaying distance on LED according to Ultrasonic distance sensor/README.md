@@ -1,7 +1,10 @@
 <h1>Displaying distance on LED according to Ultrasonic distance sensor</h1>
 
 <div>
-    <p> 
+    <p>Here we will display the distance of the object (the object in TinkerCAD) from the sensor on the LCD. 
+       When the object is not in range of the sensor the LCD will display a message. The sensor measures the time it takes to send, reflect and receive the ultrasonic wave from the object.
+       Arduino receives the sensor output as time, we apply the distance formula with respect to time taken and speed of sound in the medium to get the distance of oject from the sensor.
+ 
       <br><br>  
       
   Have Fun !</p>
