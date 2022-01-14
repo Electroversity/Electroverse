@@ -9,7 +9,7 @@
 
   Have Fun !</p>
     <br>
-    <img width=750 align=right src="https://github.com/Zayd1602/Dive-into-Electronics/blob/main/Intermediate%201/Smart%20Street%20Lighting%20System/circuit.jpg">
+    <img width=750 align=right src="https://github.com/Zayd1602/Dive-into-Electronics/blob/main/Intermediate%201/02-Smart%20Street%20Lighting%20System/circuit.jpg">
   <h3>Components Required</h3>
   <ol>
     <li>NPN Transistor BJT</li>
