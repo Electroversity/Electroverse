@@ -1,8 +1,14 @@
 <h1>PIR sensor Interface with Leds</h1>
 
 <div>
-    <img width=400 align=right src="https://github.com/Curovearth/Dive-into-Electronics/blob/main/Basics%201/17-Piezo%20Buzzer/buzzer.png">
+    <img width=600 align=right src="https://github.com/Curovearth/Dive-into-Electronics/blob/main/Basics%201/17-PIR%20sensor%20with%20LEDS/pir.gif">
     <p>The following is an attempt to interface PIR or Partial Infrared sensor with LEDS where we detect any movement with the help of PIR sensor and accordingly glow the LEDs while no glow would be observed when no movement is detected.<br></br>The detection is further printed on to the serial monitor as displayed in the gif.</p>
+    
+  <h3>PIR configuration</h3>
+  
+  | Signal | Power | Ground |
+  | --- | --- | --- |
+  | Digital Pin | + | - |
     
   <h3>Components Required</h3>
   <ol>
