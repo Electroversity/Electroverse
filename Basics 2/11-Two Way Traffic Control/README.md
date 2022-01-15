@@ -1,9 +1,8 @@
 <h1>Two Way Traffic Control</h1>
 
 <div>
-    <img width=450 align=right src="https://github.com/Curovearth/Dive-into-Electronics/blob/main/Basics%202/04-Potentiometer%20control%20of%202%20Leds/potentiometer%20control.png">
-    <p>In this program what we are doing is trying to display an opposite effect on Leds with a potentiometer control over them. Now by opposite effect we mean to display that when potentiometer reaches maximum value one of the led glows while the other dims out completely.<br><br>
-        Make sure to remember the pins of Potentiometer i.e.,</p>
+    <img width=500 align=right src="https://github.com/Curovearth/Dive-into-Electronics/blob/main/Basics%202/11-Two%20Way%20Traffic%20Control/traffic%20control.png">
+    <p>The following circuit deals with the implementation of a Two Way traffic control scenario wherein we let the passengers walk depending on the colour of light.<br><br>Just to make sure here Blue light indicates the passenger is allowed to walk and the RED led placed next to it indicates that the person isn't allowed or soon it's going to be a GREEN light for the cars.</p>
 </div>       
  
  
