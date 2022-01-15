@@ -22,6 +22,9 @@ void setup()
 	pinMode(g2,OUTPUT);
   	pinMode(go_ped1,OUTPUT);
   	pinMode(go_ped2,OUTPUT);
+  	pinMode(stop_ped1,OUTPUT);
+  	pinMode(stop_ped2,OUTPUT);
+  
 }
 void loop() 
 {
