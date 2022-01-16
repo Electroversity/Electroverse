@@ -1,4 +1,4 @@
-<h1>Displaying distance on LED according to Ultrasonic distance sensor</h1>
+<h1>Displaying distance on LCD according to Ultrasonic distance sensor</h1>
 
 <div>
     <p>Here we will display the distance of the object (the object in TinkerCAD) from the sensor on the LCD. 
