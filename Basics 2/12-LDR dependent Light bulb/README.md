@@ -1,7 +1,7 @@
 <h1>LDR dependent Light Bulb</h1>
 
 <div>
-    <img width=500 align=right src="https://github.com/Curovearth/Dive-into-Electronics/blob/main/Basics%202/11-Two%20Way%20Traffic%20Control/traffic%20control.png">
+    <img width=550 align=right src="https://github.com/Curovearth/Dive-into-Electronics/blob/main/Basics%202/12-LDR%20dependent%20Light%20bulb/ldr%20bulb.png">
     <p>Here we deal with the integration of a Photoresistor or a Light dependent resistor with a light bulb. We specify a particular range for the Bulb to glow and other range to be off.<br><br>We use an SPDT to control the high power application through low power signal electronics circuits.</p><br><br>
     <p>Have Fun !</p>
 </div>       
