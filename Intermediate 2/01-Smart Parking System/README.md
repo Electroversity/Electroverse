@@ -1,7 +1,11 @@
 <h1>Smart Parking System</h1>
 
 <div>
-    <p> 
+    <p> In this project we use Ultrasonic Distance sensors to check if the parking space is empty or full and displays about it on the LCD screen.
+    <br><br>
+        If the vehicle (the object in TinkerCAD) is in proximity of the sensor it will detect it and recognizes the space as full.
+        All the sensors report this to the Arduino and according to it the parking space (if available) is displayed.
+        This project can be further extended to include much more sensors using multiplexers to deploy as a full scale product. 
       <br><br>  
       
   Have Fun !</p>
