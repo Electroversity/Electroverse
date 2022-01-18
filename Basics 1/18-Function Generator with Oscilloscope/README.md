@@ -1,15 +1,21 @@
 <h1>Function Generator with Oscilloscope</h1>
 <p>Loosen Up a bit because this is not another electric circuit implementation since it's easy and we'll brush up some old wave properties.</p>
 <div>
-    <img width=500 align=right src="https://github.com/Curovearth/Dive-into-Electronics/blob/main/Basics%201/09-Temperature%20Sensor/Temperature%20sensor.png">
-    <p>A temperature sensor is a 3 pin sensor, operated on 4 to 20 volt. It gives output in voltage according to the temperature. 10 milli volts per degree Celsius is the output format of the sensor.<br><br>
-        The 3 pins signify (from right to left)
-      <ol>
-        <li>Power</li>
-        <li>Signal Input</li>
-        <li>Ground</li>
-      </ol>
-  Have Fun !</p>
+    <img width=600 align=right src="https://github.com/Curovearth/Dive-into-Electronics/blob/main/Basics%201/18-Function%20Generator%20with%20Oscilloscope/function%20generator.gif">
+    <p>We have studied that frequency is inversely proportional to the time period. So as frequency rises the time period becomes less and vice versa</p>
+    <img height=60 src="https://render.githubusercontent.com/render/math?math=f = 1 \over t"><br>
+    <img height=60 src="https://render.githubusercontent.com/render/math?math=t = 1 \over f"><br>
+    <img height=60 src="https://render.githubusercontent.com/render/math?math=v_w = \lambda \over t"><br><br>
+    <img height=40 src="https://render.githubusercontent.com/render/math?math=v_w = \lambda %2a f"><br>
+    <br>
+    <ul>
+        <li>Amplitude—distance between the resting position and the maximum displacement of the wave</li>
+        <li>Frequency—number of waves passing by a specific point per second</li>
+        <li>Period—time it takes for one wave cycle to complete</li>
+        <li>Speed of propagation vw is the distance the wave travels in a given time</li>
+    </ul>
+    
+  <p>Have Fun !</p>
     
   <h3>Components Required</h3>
   <ol>
@@ -19,6 +25,3 @@
   </ol>
     
 </div>
-
-
-<img src="https://render.githubusercontent.com/render/math?math=f = 1%2ft">
