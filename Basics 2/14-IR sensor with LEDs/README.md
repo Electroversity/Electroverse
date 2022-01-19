@@ -1,10 +1,10 @@
 <h1>IR sensor interface with LEDs</h1>
 
 <div>
-    <img width=650 align=right src="https://github.com/Curovearth/Dive-into-Electronics/blob/main/Basics%202/13-Flex%20Sensor%20with%20Servo/flex%20sensor.gif">
-    <p>The following deals with the use of a 5.5cm Flex sensor which is interfaced with Servo Motor. Now, flex sensor acts as a variable resistor that varies its resistance when bent.</p><br>When the sensor is straight, this resistance is about 25k.<br><br>
+    <img width=650 align=right src="https://github.com/Curovearth/Dive-into-Electronics/blob/main/Basics%202/14-IR%20sensor%20with%20LEDs/ir%20sensor%20and%20leds.gif">
+    <p>Here, we deal with using IR or infrared sensor and interfacing it with leds using IR remote. An <i>IR sensor is an electronic device that measures and detects the Infrared Radiations</i>.<br>The IR remote is a wireless device acting as a transmitter that carries signals from remote to the devices it controls. It emits lights in an IR range that corresponds to specific commands.</p>
     <p>Have Fun !</p>
-</div>  <br><br>     
+</div>  <br>   
  
 <b>IR sensor Configuration: </b>
 
