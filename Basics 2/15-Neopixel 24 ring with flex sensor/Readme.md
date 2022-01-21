@@ -18,9 +18,10 @@
 
 ## CODE
 #### Important part of the code 
-```
+
+```C++
 void loop()
-{
+ {
   fsrReading=analogRead(fsrPin);
   
   num=map(fsrReading,60,256,1,24);
