@@ -10,7 +10,7 @@
   
   <h3>Components Required</h3>
   <ol>
-    <li>HCR04 Ultrasonic sensor (28015)</li>
+    <li>Ultrasonic sensor PING (28015)</li>
     <li>3x Resistor 200Ω</li>
     <li>3x LEDs</li>
     <li>Jumper Wires</li>
