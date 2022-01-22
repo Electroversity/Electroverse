@@ -1,8 +1,8 @@
 <h1>Capacitance Meter for 1uF-4700uF</h1>
 
 <div>
-  <img width=650 align=right src="https://github.com/Zayd1602/Dive-into-Electronics/blob/main/Basics%202/17-LED%20glow%20according%20to%20distance%20using%20PING%20(28015)/circ_anim.gif">
-  <p>Here we'll control the LEDs using the distance values we'll calculate by the help of the Ultrasonic sensor (28015).</p>
+  <img width=650 align=right src="https://github.com/Curovearth/Dive-into-Electronics/blob/main/Intermediate%202/04-Capacitance%20Meter/capacitance%20meter.gif">
+  <p>Here we deal with capacitance meter which displays the capacitance value in the LCD and we can use any value of capacitance between the range of 0uF to 4700uF.</p>
      
   
   <h3>Components Required</h3>
