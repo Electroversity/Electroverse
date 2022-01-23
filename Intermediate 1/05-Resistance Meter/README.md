@@ -1,7 +1,7 @@
 <h1>Resistance Meter</h1>
 
 <div>
-  <img width=650 align=right src="https://github.com/Curovearth/Dive-into-Electronics/blob/main/Intermediate%202/04-Capacitance%20Meter/capacitance%20meter.gif">
+  <img width=650 align=right src="https://github.com/Curovearth/Dive-into-Electronics/blob/main/Intermediate%201/05-Resistance%20Meter/resistance%20meter.png">
   <p>Here we wish to determine the resistance of an unknown resistor using the Voltage Divider Network formula which gives out the value of unknown resistance.</p><br>
      
   <p>Have Fun</p>
@@ -21,7 +21,7 @@
 
 
 <h2>CODE</h2>
-<p><b>Important part of the code.</b>Make sure to refer the .ino file provided !</p>
+<p><b>Important part of the code.</b> Make sure to refer the .ino file provided !</p>
 
 ```C++
 float analogV = analogRead(A0);
