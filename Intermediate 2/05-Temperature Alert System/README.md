@@ -1,10 +1,10 @@
 <h1>Temperature Alert System</h1>
 
 <div>
-  <img width=650 align=right src="https://github.com/Zayd1602/Dive-into-Electronics/blob/main/Intermediate%202/05-Temperature%20Alert%20System/circuit.jpg">
+  <img width=650 align=right src="https://github.com/Zayd1602/Dive-into-Electronics/blob/main/Intermediate%202/05-Temperature%20Alert%20System/circ_anim.gif">
   <p>Here we design a temperature monitoring and alert system with the help of temperature sensor, LEDs and LCD display.</p>
   <h3>Problem Statement -</h3>
-  <p>Design a system to alert the personnel in an industry to maintain the equipment in a temperature rangen between 60°-70°C and turn ON the Green LED. When the temperature is high, turn ON the Red LED. For a low temperature, turn ON the Yellow LED. 
+  <p>Design a system to alert the personnel in an industry to maintain the equipment in a temperature rangen between 45-75°C and turn ON the Green LED. When the temperature is high, turn ON the Red LED. For a low temperature, turn ON the Yellow LED. 
     Display the status of the alert system and temperature on a LCD.</p>
      
   
@@ -27,9 +27,9 @@
 <p>
   <ul>
     <li>To show the readings in SI units some calibration has been done in the code.</li>
-    <li>If the temperature goes above 70°C, Red LED turns ON and other LEDs are OFF.</li>
-    <li>If the temperature goes below 60°C, Yellow LED turns ON and other LEDs are OFF.</li>
-    <li>If the temperature is in between 60-70°C, Green LED turns ON and other LEDs are OFF.</li>
+    <li>If the temperature goes above 75°C, Red LED turns ON and other LEDs are OFF.</li>
+    <li>If the temperature goes below 45°C, Yellow LED turns ON and other LEDs are OFF.</li>
+    <li>If the temperature is in between 45-75°C, Green LED turns ON and other LEDs are OFF.</li>
   </ul>
 </p>
 
