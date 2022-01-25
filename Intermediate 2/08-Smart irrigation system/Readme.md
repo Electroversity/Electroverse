@@ -3,7 +3,7 @@
 
 <div>
     <img width=600 align=right src="https://github.com/yatharthagr7/Dive-into-Electronics/blob/main/Intermediate%202/08-Smart%20irrigation%20system/water%20system.gif">
-    <p>The following is an attempt to interface temperature sensor and DC motor with a LCD indicating an <i>Smart irrigation system</i> where the temperature sensor detects the temperature of the soil and then accordingly the DC motor comes in act to supply the water to the soil,Here we used H-bridge motor drive is used to control the flow of current to a load for DC motor.<br>
+    <p>The following is an attempt to interface temperature sensor and DC motor with a LCD indicating an <i>Smart irrigation system</i> where the temperature sensor detects the temperature of the soil and then accordingly the DC motor comes in act to supply the water to the soil,Here we used H-bridge motor drive  to control the flow of current to a load for DC motor.<br>
   
    Have Fun !
   
