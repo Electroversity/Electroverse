@@ -15,7 +15,7 @@
     <li>4x Resistor 220Ω</li>
     <li>HCSR04 ultrasonic sensor</li>
     <li>2x gear motors</li>
-    <li>1x L293D motor driver</li>
+    <li>1x L293D motor driver for controlling the gear motors</li>
     <li>Jumper Wires</li>
     <li>Arduino UNO</li>
   </ol>
