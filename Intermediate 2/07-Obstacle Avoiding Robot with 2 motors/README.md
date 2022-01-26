@@ -12,7 +12,6 @@
   
   <h3>Components Required</h3>
   <ol>
-    <li>1x LCD Display</li>
     <li>4x Resistor 220Ω</li>
     <li>HCSR04 ultrasonic sensor</li>
     <li>2x gear motors</li>
