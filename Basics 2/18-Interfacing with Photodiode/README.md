@@ -1,11 +1,9 @@
 <h1>Interfacing with PhotoDiode</h1>
 
 <div>
-    <img width=350 align=right src="https://github.com/Curovearth/Dive-into-Electronics/blob/main/Basics%202/02-LEDs%20Fade%20In%20and%20Fade%20Out/led%20fade%20in%20and%20out.png">
-    <p>Here we are using 2 LEDs and performing simultaneous fading in and out depending on the condition that when one fades in the other led fades out and vice versa.<br><br>
-        We use "analogWrite" function over the digital pins and add the delay to see the dimming of the LEDs.
-      
-  Have Fun !</p><br>
+    <img width=650 align=right src="https://github.com/Curovearth/Dive-into-Electronics/blob/main/Basics%202/18-Interfacing%20with%20Photodiode/photodiode.gif">
+    <p>Here we deal with interfacing a PhotoDiode with an Arduino and indicating it's different levels via led glow. Photodiodes are faster and more complex than normal PN junction diode and hence are frequently used for lighting regulation and optical communication.<br><br>
+  Have Fun !</p>
     
   <h3>Components Required</h3>
   <ol>
