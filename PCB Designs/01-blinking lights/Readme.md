@@ -7,20 +7,26 @@
         
    Have Fun !
   
-   <img width=1000 align=right src="https://github.com/yatharthagr7/Dive-into-Electronics/blob/main/PCB%20Designs/01-blinking%20lights/pcb.png">
+  <p align="center">
+  <img width="600" src="https://github.com/yatharthagr7/Dive-into-Electronics/blob/main/PCB%20Designs/01-blinking%20lights/pcb.png">
+</p>
+     
   
  
   </p>
   
- # Some of the views from the 3D file   
+ ## Some of the views from the 3D file   
      
   <img width=1000 align=left src="https://github.com/yatharthagr7/Dive-into-Electronics/blob/main/PCB%20Designs/01-blinking%20lights/img1.png">  
   
   
   
      
-  <img width=1000 align=right src="https://github.com/yatharthagr7/Dive-into-Electronics/blob/main/PCB%20Designs/01-blinking%20lights/img2.png">  
+  <img width=1000 align=left src="https://github.com/yatharthagr7/Dive-into-Electronics/blob/main/PCB%20Designs/01-blinking%20lights/img2.png">  
  
- # View of Schematic diagram  
+ ## View of Schematic diagram  
   
-  <img width=1000 align=right src="https://github.com/yatharthagr7/Dive-into-Electronics/blob/main/PCB%20Designs/01-blinking%20lights/sch.png">  
+   <p align="center">
+  <img width="600" src="https://github.com/yatharthagr7/Dive-into-Electronics/blob/main/PCB%20Designs/01-blinking%20lights/sch.png">
+</p>
+ 
