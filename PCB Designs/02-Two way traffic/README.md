@@ -16,7 +16,7 @@
    
 | <h3>A view of the 3D file</h2> | <h3>Schematic Diagram for PCB</h3> |      
 | --- | --- |
-| <img width=500 align=center src="https://github.com/Curovearth/Dive-into-Electronics/blob/main/PCB%20Designs/02-Two%20way%20traffic/img.png"> |    <img width="500" src="https://github.com/Curovearth/Dive-into-Electronics/blob/main/PCB%20Designs/02-Two%20way%20traffic/schematic.jpg"> | 
+| <img width=500 align=center src="https://github.com/Curovearth/Dive-into-Electronics/blob/main/PCB%20Designs/02-Two%20way%20traffic/img1.png"/><br><img width=500 align=center src="https://github.com/Curovearth/Dive-into-Electronics/blob/main/PCB%20Designs/02-Two%20way%20traffic/img2.png"/> |    <img width="500" src="https://github.com/Curovearth/Dive-into-Electronics/blob/main/PCB%20Designs/02-Two%20way%20traffic/schematic.jpg"> | 
  
 </div>
 
