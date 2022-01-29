@@ -8,7 +8,11 @@
         
    Have Fun !
   </p>
-<br><br><br><br>
+<br>
+
+   - .fbrd ➡️ Electronics Board
+   - .fsch ➡️ Electronics Schematic
+   
    
 <div align=center>
    
