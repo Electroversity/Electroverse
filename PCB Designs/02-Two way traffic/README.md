@@ -9,7 +9,8 @@
 <br>
 
    - .fbrd ➡️ Electronics Board
-   
+   - .fsch ➡️ Electronics Schematic
+   - .f3d  ➡️ 3D PCB file or can be viewed through this link:"https://a360.co/3AGWz8e"
    
 <br> <br>  
 <div align=center>
