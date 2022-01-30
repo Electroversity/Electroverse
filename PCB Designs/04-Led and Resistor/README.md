@@ -1,4 +1,4 @@
-<h1>Two Way Traffic Control PCB</h1>
+<h1>LED and Resistor PCB</h1>
 
 <div>
    <img width=450 align=right src="https://github.com/Curovearth/Dive-into-Electronics/blob/main/PCB%20Designs/04-Led%20and%20Resistor/img1.png"/>
