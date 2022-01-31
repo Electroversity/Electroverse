@@ -1,4 +1,4 @@
-<h1>LED and Potentiometer</h1>
+<h1>RGB LED</h1>
 
 <div>
    <img width=450 align=right src="https://github.com/Curovearth/Dive-into-Electronics/blob/main/PCB%20Designs/09-RGB%20interface/img1.png"/>
