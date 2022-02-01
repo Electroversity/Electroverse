@@ -1,4 +1,4 @@
-<h1>Servo Motor Interface</h1>
+<h1>Liquid Crystal Display Interface</h1>
 
 <div>
    <img width=450 align=right src="https://github.com/Curovearth/Dive-into-Electronics/blob/main/PCB%20Designs/11-LCD/img1.png"/>
