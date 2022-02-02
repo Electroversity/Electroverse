@@ -4,7 +4,7 @@
 <h1>PIR Interface LEDs PCB</h1>
 
 <div>
-   <img width=600 align=right src="https://github.com/yatharthagr7/Dive-into-Electronics/blob/main/PCB%20Designs/13-PIR%20interface%20LEDs/PIR%20board%20v2.png"/>
+   <img width=500 align=right src="https://github.com/yatharthagr7/Dive-into-Electronics/blob/main/PCB%20Designs/13-PIR%20interface%20LEDs/PIR%20board%20v2.png"/>
    <p>You can observe that this is a pcb where PIR sensor being interfaced with LEDs and resistor and also board design is made with aesthetics.<br><br>Here are some of the visuals of PCB designed<br>
         
    Have Fun !
