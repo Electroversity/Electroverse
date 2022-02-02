@@ -13,14 +13,14 @@
 
    - .fbrd ➡️ Electronics Board
    - .fsch ➡️ Electronics schematics
-   - .f3d  ➡️ 3D PCB file or can be viewed through this link:"https://a360.co/3Hise2z"
+   - .f3d  ➡️ 3D PCB file or can be viewed through this link:"https://a360.co/34vyaXa"
    
 <br> <br>  
 <div align=center>
    
 | <h3>A view of the 3D file</h2> | <h3>Schematic Diagram for PCB</h3> |      
 | --- | --- |
-| <img width=750 align=center src="https://github.com/yatharthagr7/Dive-into-Electronics/blob/main/PCB%20Designs/08-Automatic%20password%20door%20system/img2.png"/><br><img width=700 align=center src="https://github.com/yatharthagr7/Dive-into-Electronics/blob/main/PCB%20Designs/08-Automatic%20password%20door%20system/img1.png"/> |    <img width="700" src="https://github.com/yatharthagr7/Dive-into-Electronics/blob/main/PCB%20Designs/13-PIR%20interface%20LEDs/schematics.png"> | 
+| <img width=750 align=center src="https://github.com/yatharthagr7/Dive-into-Electronics/blob/main/PCB%20Designs/13-PIR%20interface%20LEDs/img2.png"/><br><img width=700 align=center src="https://github.com/yatharthagr7/Dive-into-Electronics/blob/main/PCB%20Designs/13-PIR%20interface%20LEDs/img1.png"/> |    <img width="700" src="https://github.com/yatharthagr7/Dive-into-Electronics/blob/main/PCB%20Designs/13-PIR%20interface%20LEDs/schematics.png"> | 
  
 </div>
 
