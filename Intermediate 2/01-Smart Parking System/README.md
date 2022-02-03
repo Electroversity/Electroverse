@@ -10,7 +10,7 @@
       
   Have Fun !</p>
     <br>
-    <img width=750 align=right src="https://github.com/Curovearth/Dive-into-Electronics/blob/main/Intermediate%202/01-Smart%20Parking%20System/circuit.jpg">
+    <img width=750 align=right src="https://github.com/Zayd1602/Dive-into-Electronics/blob/main/Intermediate%202/01-Smart%20Parking%20System/circ_anim.gif">
   <h3>Components Required</h3>
   <ol>
     <li>3x Ultrasonic Distance sensor 28015</li>
