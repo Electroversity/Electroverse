@@ -4,7 +4,7 @@
 <h1>7 Segment display PCB</h1>
 
 <div>
-   <img width=500 align=right src="https://github.com/yatharthagr7/Dive-into-Electronics/blob/main/PCB%20Designs/16-7%20segment%20display/7-segment%20v1.png"/>
+   <img width=450 align=right src="https://github.com/yatharthagr7/Dive-into-Electronics/blob/main/PCB%20Designs/16-7%20segment%20display/7-segment%20v1.png"/>
    <p>You can observe that this is a pcb for the 7 Segment display unit using resistors.<br><br>Here are some of the visuals of PCB designed<br>
         
    Have Fun !
