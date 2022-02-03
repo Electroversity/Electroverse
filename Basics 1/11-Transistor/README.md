@@ -30,18 +30,18 @@
 ## CODE
 ```C++
 
-#include <Servo.h>      //including the servo library
+const int transistor = 8;
 
-Servo servo_1;          //naming the servo
-
-void setup(){
-  servo_1.attach(8);    //attaching the servo to digital pin 8 for signal input
+void setup()
+{
+  pinMode (transistor, OUTPUT);
 }
 
-void loop(){
-  servo_1.write(45);    //rotate 45
+void loop()
+{
+  digitalWrite (transistor, HIGH);
   delay(1000);
-  servo_1.write(180);
+  digitalWrite (transistor, LOW);
   delay(1000);
 }
 
