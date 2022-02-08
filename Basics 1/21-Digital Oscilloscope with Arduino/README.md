@@ -1,6 +1,6 @@
 <h1>Digital Oscilloscope with Arduino</h1>
 <div>
-    <img width=600 align=right src="https://github.com/Curovearth/Dive-into-Electronics/blob/main/Basics%201/Digital%20Oscilloscope%20with%20Arduino/Digital%20Oscilloscope%20with%20Arduino.gif">
+    <img width=600 align=right src="https://github.com/Curovearth/Dive-into-Electronics/blob/main/Basics%201/21-Digital%20Oscilloscope%20with%20Arduino/Digital%20Oscilloscope%20with%20Arduino.gif">
     <p>An instrument in which the variations in a fluctuating electrical quantity appear temporarily as a visible wave form on a display screen.<br><br>
   <p> Oscilloscope receives data from the arduino and plots the graph. Multimeter attached for instantaneous value display</p>   
   
