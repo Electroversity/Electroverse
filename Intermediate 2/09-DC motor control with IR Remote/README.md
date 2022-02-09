@@ -1,4 +1,4 @@
-<h1>Obstacle Avoidance robot using 2 Gear Motors</h1>
+<h1>DC motor control with IR Remote</h1>
 
 <div>
    <p>The following program is focused on interfacing 2 DC motors to an IR remote similar to what happens with an RC car at home.</p>
