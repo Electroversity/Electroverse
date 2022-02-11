@@ -4,7 +4,7 @@
 
 <div>
    <img width=500 align=right src="https://github.com/yatharthagr7/Dive-into-Electronics/blob/main/PCB%20Designs/30-Smart%20street%20lighting%20system/smart%20street%20lighting_Pcb%20v1.png"/>
-   <p>You can observe that this is a pcb made forSmart street lighting system made with the help of NPN transistors, resistors,photoresistors and bulbs.<br><br>Here are some of the visuals of PCB designed<br>
+   <p>You can observe that this is a pcb made for Smart street lighting system made with the help of NPN transistors, resistors,photoresistors and bulbs.<br><br>Here are some of the visuals of PCB designed<br>
         
    Have Fun !
   </p>
