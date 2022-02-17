@@ -1,8 +1,8 @@
 <h1>LED control using Slideswitch</h1>
 
 <div>
-   <img width=450 align=right src="https://github.com/yatharthagr7/Dive-into-Electronics/blob/main/PCB%20Designs/32-Temperature%20alert%20system/Temperature_alert_PCB%20v1.png"/>
-   <p>The following circuit deals with the interface of a capacitor with 9v battery via push buttons and the voltage accross them is observed through multimeters.<br><br>Here are some of the visuals of PCB designed<br>
+   <img width=450 align=right src="https://github.com/Curovearth/Dive-into-Electronics/blob/main/PCB%20Designs/38-LED%20and%20Slideswitch/img1.png"/>
+   <p>If the switch is ON, the LED will be ON and if the switch is OFF, then the LED will be OFF. <br><br>Here are some of the visuals of PCB designed<br>
         
    Have Fun !
   </p>
@@ -16,7 +16,7 @@
    
 | <h3>A view of the 3D file</h2> | <h3>Schematic Diagram for PCB</h3> |      
 | --- | --- |
-| <img width=550 align=center src="https://github.com/yatharthagr7/Dive-into-Electronics/blob/main/PCB%20Designs/32-Temperature%20alert%20system/img1.png"/><br><img width=550 align=center src="https://github.com/yatharthagr7/Dive-into-Electronics/blob/main/PCB%20Designs/32-Temperature%20alert%20system/img2.png"/> |    <img width="450" src="https://github.com/yatharthagr7/Dive-into-Electronics/blob/main/PCB%20Designs/32-Temperature%20alert%20system/schematics.png"> | 
+| <img width=600 align=center src="https://github.com/Curovearth/Dive-into-Electronics/blob/main/PCB%20Designs/38-LED%20and%20Slideswitch/img2.png"/><br><img width=600 align=center src="https://github.com/Curovearth/Dive-into-Electronics/blob/main/PCB%20Designs/38-LED%20and%20Slideswitch/img3.png"/> |    <img width="350" src="https://github.com/Curovearth/Dive-into-Electronics/blob/main/PCB%20Designs/38-LED%20and%20Slideswitch/PCB%20view.png"> | 
  
 </div>
 
