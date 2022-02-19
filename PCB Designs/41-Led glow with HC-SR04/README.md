@@ -1,8 +1,8 @@
 <h1>LED glow with HC-SR04 ultrasonic sensor</h1>
 
 <div>
-   <img width=450 align=right src="https://github.com/Curovearth/Dive-into-Electronics/blob/main/PCB%20Designs/38-LED%20and%20Slideswitch/img1.png"/>
-   <p>If the switch is ON, the LED will be ON and if the switch is OFF, then the LED will be OFF. <br><br>Here are some of the visuals of PCB designed<br>
+   <img width=450 align=right src="https://github.com/Curovearth/Dive-into-Electronics/blob/main/PCB%20Designs/41-Led%20glow%20with%20HC-SR04/img1.png"/>
+   <p>Using HC-SRO4 ultrasonic sensor to glow leds according to distance measured for which PCB board is made.<br><br>Here are some of the visuals of PCB designed<br>
         
    Have Fun !
   </p>
@@ -16,7 +16,7 @@
    
 | <h3>A view of the 3D file</h2> | <h3>Schematic Diagram for PCB</h3> |      
 | --- | --- |
-| <img width=600 align=center src="https://github.com/Curovearth/Dive-into-Electronics/blob/main/PCB%20Designs/38-LED%20and%20Slideswitch/img2.png"/><br><img width=600 align=center src="https://github.com/Curovearth/Dive-into-Electronics/blob/main/PCB%20Designs/38-LED%20and%20Slideswitch/img3.png"/> |    <img width="350" src="https://github.com/Curovearth/Dive-into-Electronics/blob/main/PCB%20Designs/38-LED%20and%20Slideswitch/PCB%20view.png"> | 
+| <img width=600 align=center src="https://github.com/Curovearth/Dive-into-Electronics/blob/main/PCB%20Designs/41-Led%20glow%20with%20HC-SR04/img2.png"/><br><img width=600 align=center src="https://github.com/Curovearth/Dive-into-Electronics/blob/main/PCB%20Designs/41-Led%20glow%20with%20HC-SR04/img3.png"/> |    <img width="350" src="https://github.com/Curovearth/Dive-into-Electronics/blob/main/PCB%20Designs/41-Led%20glow%20with%20HC-SR04/PCB%20view.png"> | 
  
 </div>
 
