@@ -2,7 +2,7 @@
 <h1>Smart irrigation system</h1>
 
 <div>
-    <img width=600 align=right src="https://github.com/yatharthagr7/Dive-into-Electronics/blob/main/Intermediate%202/08-Smart%20irrigation%20system/water%20system.gif">
+    <img width=600 align=right src="https://github.com/Curovearth/Dive-into-Electronics/blob/main/Intermediate%202/08-Smart%20irrigation%20system/water%20system.gif">
     <p>The following is an attempt to interface temperature sensor and DC motor with a LCD indicating an <i>Smart irrigation system</i> where the temperature sensor detects the temperature of the soil and then accordingly the DC motor comes in act to supply the water to the soil,Here we used H-bridge motor drive  to control the flow of current to a load for DC motor.<br>
   
    Have Fun !
@@ -22,7 +22,7 @@
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | 
 | GND | VCC | Contrast Adj | Register Select(Digital pin) | Read Write(GND) | Data Enable(Digital pin) | D0 | D1 | D2 | D3 | D4(Digital Pin) | D5(Digital Pin) | D6(Digital Pin) | D7(Digital Pin) | LED+ | LED-(Use a Resistor) | 
     
-  <img width=500 align=right src="https://github.com/yatharthagr7/Dive-into-Electronics/blob/main/Intermediate%202/08-Smart%20irrigation%20system/connections.png">  
+  <img width=500 align=right src="https://github.com/Curovearth/Dive-into-Electronics/blob/main/Intermediate%202/08-Smart%20irrigation%20system/connections.png">  
   <h3>Components Required</h3>
   <ol>
     <li>1x DC motor</li>
