@@ -3,7 +3,7 @@
 <h1>Water system PCB</h1>
 
 <div>
-   <img width=500 align=right src="https://github.com/yatharthagr7/Dive-into-Electronics/blob/main/PCB%20Designs/05-Water%20system/pcb%20board%20water%20system%20v1.png"/>
+   <img width=500 align=right src="https://github.com/Curovearth/Dive-into-Electronics/blob/main/PCB%20Designs/05-Water%20system/pcb%20board%20water%20system%20v1.png"/>
    <p>You can observe that this is a pcb made for Water system made in a droplet shape for aesthetics with the help of the temperature sensor, DC motor and H-bridge motor driver.<br><br>Here are some of the visuals of PCB designed<br>
         
    Have Fun !
@@ -19,7 +19,7 @@
    
 | <h3>A view of the 3D file</h2> | <h3>Schematic Diagram for PCB</h3> |      
 | --- | --- |
-| <img width=750 align=center src="https://github.com/yatharthagr7/Dive-into-Electronics/blob/main/PCB%20Designs/05-Water%20system/img2.png"/><br><img width=750 align=center src="https://github.com/yatharthagr7/Dive-into-Electronics/blob/main/PCB%20Designs/05-Water%20system/img1.png"/> |    <img width="375" src="https://github.com/yatharthagr7/Dive-into-Electronics/blob/main/PCB%20Designs/05-Water%20system/schematic.png"> | 
+| <img width=750 align=center src="https://github.com/Curovearth/Dive-into-Electronics/blob/main/PCB%20Designs/05-Water%20system/img2.png"/><br><img width=750 align=center src="https://github.com/Curovearth/Dive-into-Electronics/blob/main/PCB%20Designs/05-Water%20system/img1.png"/> |    <img width="375" src="https://github.com/Curovearth/Dive-into-Electronics/blob/main/PCB%20Designs/05-Water%20system/schematic.png"> | 
  
 </div>
 
