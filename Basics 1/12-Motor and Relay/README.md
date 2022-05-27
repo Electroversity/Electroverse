@@ -1,7 +1,7 @@
 <h1>DC Motor and Relay</h1>
 
 <div>
-    <img width=600 align=right src="https://github.com/Curovearth/Dive-into-Electronics/blob/main/Basics%201/12-Motor%20and%20Relay/motor%20and%20relay.png">
+    <img width=600 align=right src="https://github.com/Electroversity/Electroverse/blob/main/Basics%201/12-Motor%20and%20Relay/motor%20and%20relay.png">
     <p>A relay is an electro mechanical switch. It is used for switching high current devices that cannot be switched by transistor. Relay consists of one electromagnetic coil and three terminals for switching. 
         <ol>
             <li>One among these terminals is a common terminal that floats between other two terminals.</li>

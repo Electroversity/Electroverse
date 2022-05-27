@@ -5,7 +5,7 @@
   
   >Note: We aren't using a servo motor to measure the right and left distance here
   
-  <img width=700 align=right src="https://github.com/Curovearth/Dive-into-Electronics/blob/main/Intermediate%202/07-Obstacle%20Avoiding%20Robot%20with%202%20motors/obstacle%20avoiding.gif">
+  <img width=700 align=right src="https://github.com/Electroversity/Electroverse/blob/main/Intermediate%202/07-Obstacle%20Avoiding%20Robot%20with%202%20motors/obstacle%20avoiding.gif">
  <br>
      
   <p>Have Fun !</p>

@@ -1,10 +1,10 @@
 <h1>LED glow according to distance using HC-SR04</h1>
 
 <div>
-  <img width=650 align=right src="https://github.com/Curovearth/Dive-into-Electronics/blob/main/Basics%202/09-LED%20glow%20according%20to%20distance%20using%20HC-SR04/circ_anim.gif">
+  <img width=650 align=right src="https://github.com/Electroversity/Electroverse/blob/main/Basics%202/09-LED%20glow%20according%20to%20distance%20using%20HC-SR04/circ_anim.gif">
   <p>Here we'll control the LEDs using the distance values we'll calculate by the help of the Ultrasonic sensor (HCR04). 
   </p>
-  <a href="https://github.com/Curovearth/Dive-into-Electronics/blob/main/Basics%202/09-LED%20glow%20according%20to%20distance%20using%20HC-SR04/circuit.jpg">Circuit Diagram</a>
+  <a href="https://github.com/Electroversity/Electroverse/blob/main/Basics%202/09-LED%20glow%20according%20to%20distance%20using%20HC-SR04/circuit.jpg">Circuit Diagram</a>
   <p> <br><br>
     
   </p>

@@ -1,7 +1,7 @@
 <h1>LEDs Fading In and Out</h1>
 
 <div>
-    <img width=350 align=right src="https://github.com/Curovearth/Dive-into-Electronics/blob/main/Basics%202/02-Led's%20Fade%20In%20and%20Fade%20Out/led%20fade%20in%20and%20out.png">
+    <img width=350 align=right src="https://github.com/Electroversity/Electroverse/blob/main/Basics%202/02-Led's%20Fade%20In%20and%20Fade%20Out/led%20fade%20in%20and%20out.png">
     <p>Here we are using 2 LEDs and performing simultaneous fading in and out depending on the condition that when one fades in the other led fades out and vice versa.<br><br>
         We use "analogWrite" function over the digital pins and add the delay to see the dimming of the LEDs.
       

@@ -5,7 +5,7 @@
   
   >Note: Try using 4DC motors as well. And make sure that you follow the PWM pins role.
   
-  <img width=720 align=right src="https://github.com/Curovearth/Dive-into-Electronics/blob/main/Intermediate%202/09-DC%20motor%20control%20with%20IR%20Remote/Dc%20motor%20control.gif">
+  <img width=720 align=right src="https://github.com/Electroversity/Electroverse/blob/main/Intermediate%202/09-DC%20motor%20control%20with%20IR%20Remote/Dc%20motor%20control.gif">
  <br>
      
   <p>Have Fun !</p>
@@ -45,4 +45,4 @@
 
 
 <h2>CODE</h2>
-<p><b>Since the code is a bit long you'll have to head over to <a href="https://github.com/Curovearth/Dive-into-Electronics/blob/main/Intermediate%202/09-DC%20motor%20control%20with%20IR%20Remote/DC%20motor%20control%20with%20IR%20remote.ino">CODE !</a></p>
+<p><b>Since the code is a bit long you'll have to head over to <a href="https://github.com/Electroversity/Electroverse/blob/main/Intermediate%202/09-DC%20motor%20control%20with%20IR%20Remote/DC%20motor%20control%20with%20IR%20remote.ino">CODE !</a></p>

@@ -1,7 +1,7 @@
 <h1>Function Generator with Oscilloscope</h1>
 <p>Loosen Up a bit because this is not another electric circuit implementation since it's easy and we'll brush up some old wave properties.</p>
 <div>
-    <img width=600 align=right src="https://github.com/Curovearth/Dive-into-Electronics/blob/main/Basics%201/18-Function%20Generator%20with%20Oscilloscope/function%20generator.gif">
+    <img width=600 align=right src="https://github.com/Electroversity/Electroverse/blob/main/Basics%201/18-Function%20Generator%20with%20Oscilloscope/function%20generator.gif">
     <p>We have studied that frequency is inversely proportional to the time period. So as frequency rises the time period becomes less and vice versa</p>
     <img height=60 src="https://render.githubusercontent.com/render/math?math=f = 1 \over t"><br>
     <img height=60 src="https://render.githubusercontent.com/render/math?math=t = 1 \over f"><br>

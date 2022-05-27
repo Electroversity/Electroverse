@@ -1,7 +1,7 @@
 <h1>Digital Clock using LCD</h1>
 
 <div>
-    <img width=650 align=right src="https://github.com/Curovearth/Dive-into-Electronics/blob/main/Basics%202/07-Temperature%20Display%20on%20LCD/tempdisplay.gif">
+    <img width=650 align=right src="https://github.com/Electroversity/Electroverse/blob/main/Basics%202/07-Temperature%20Display%20on%20LCD/tempdisplay.gif">
     <p>The following circuit represents the situation of an industrial appliance where we warn the workers with the glow of LED for different temperature ranges and also further show the result on to the LCD screen.<br><br>This further helps the workers to identify the temperature and the working condition of the appliance.</p>
     <p>Have Fun !</p>
 </div>       

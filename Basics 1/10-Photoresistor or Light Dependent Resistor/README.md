@@ -1,7 +1,7 @@
 <h1>Light Dependent Resistor</h1>
 
 <div>
-    <img width=565 align=right src="https://github.com/Curovearth/Dive-into-Electronics/blob/main/Basics%201/10-Photoresistor%20or%20Light%20Dependent%20Resistor/light%20dependent%20resistor.png">
+    <img width=565 align=right src="https://github.com/Electroversity/Electroverse/blob/main/Basics%201/10-Photoresistor%20or%20Light%20Dependent%20Resistor/light%20dependent%20resistor.png">
     <p>An LDR or a photo resistor is a photo conductive sensor. It is a variable resistor that changes it's resistance in a proportion to the light exposed to it. It's resistance decreases with the intensity of light.<br>
      
   Have Fun !</p>

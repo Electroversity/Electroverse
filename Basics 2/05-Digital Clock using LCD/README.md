@@ -1,7 +1,7 @@
 <h1>Digital Clock using LCD</h1>
 
 <div>
-    <img width=650 align=right src="https://github.com/Curovearth/Dive-into-Electronics/blob/main/Basics%202/05-Digital%20Clock%20using%20LCD/clock.gif">
+    <img width=650 align=right src="https://github.com/Electroversity/Electroverse/blob/main/Basics%202/05-Digital%20Clock%20using%20LCD/clock.gif">
     <p>The following circuit represents a Digital Clock which is displayed on the LCD.<br><br> Keep in mind the program for this doesn't automaticall detects the time rather we have specified the current time and then it increases the value like a normal digital clock.</p>
     <p>Have Fun !</p>
 </div>       

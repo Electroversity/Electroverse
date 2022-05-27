@@ -1,7 +1,7 @@
 <h1>2 LED interface PCB</h1>
 
 <div>
-   <img width=550 align=right src="https://github.com/Curovearth/Dive-into-Electronics/blob/main/PCB%20Designs/23-Two%20LED%20interface/img1.png"/>
+   <img width=550 align=right src="https://github.com/Electroversity/Electroverse/blob/main/PCB%20Designs/23-Two%20LED%20interface/img1.png"/>
    <p>Following is an implementation of 2 LEDs interface wherein we could perform the fade in and fade out programs or blinking the LEDs simultaneously as well.
   <br><br>Here are some of the visuals of PCB designed<br>
         
@@ -18,7 +18,7 @@
    
 | <h3>A view of the 3D file</h2> | <h3>Schematic Diagram for PCB</h3> |      
 | --- | --- |
-| <img width=600 align=center src="https://github.com/Curovearth/Dive-into-Electronics/blob/main/PCB%20Designs/23-Two%20LED%20interface/img2.png"/><br><img width=600 align=center src="https://github.com/Curovearth/Dive-into-Electronics/blob/main/PCB%20Designs/23-Two%20LED%20interface/img3.png"/> |    <img width="400" src="https://github.com/Curovearth/Dive-into-Electronics/blob/main/PCB%20Designs/23-Two%20LED%20interface/PCB%20view.png"> | 
+| <img width=600 align=center src="https://github.com/Electroversity/Electroverse/blob/main/PCB%20Designs/23-Two%20LED%20interface/img2.png"/><br><img width=600 align=center src="https://github.com/Electroversity/Electroverse/blob/main/PCB%20Designs/23-Two%20LED%20interface/img3.png"/> |    <img width="400" src="https://github.com/Electroversity/Electroverse/blob/main/PCB%20Designs/23-Two%20LED%20interface/PCB%20view.png"> | 
  
 </div>
 

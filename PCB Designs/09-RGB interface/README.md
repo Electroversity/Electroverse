@@ -1,7 +1,7 @@
 <h1>RGB LED</h1>
 
 <div>
-   <img width=450 align=right src="https://github.com/Curovearth/Dive-into-Electronics/blob/main/PCB%20Designs/09-RGB%20interface/img1.png"/>
+   <img width=450 align=right src="https://github.com/Electroversity/Electroverse/blob/main/PCB%20Designs/09-RGB%20interface/img1.png"/>
    <p>Implementation of an RGB led which is a combination of 3 LEDs i.e., Red, Green and Blue. These three colors can make any color. By varying supplied voltages to RGB LEDs different colors can be formed.<br><br>Here are some of the visuals of PCB designed<br>
         
    Have Fun !
@@ -17,7 +17,7 @@
    
 | <h3>A view of the 3D file</h2> | <h3>Schematic Diagram for PCB</h3> |      
 | --- | --- |
-| <img width=600 align=center src="https://github.com/Curovearth/Dive-into-Electronics/blob/main/PCB%20Designs/09-RGB%20interface/img2.png"/><br><img width=600 align=center src="https://github.com/Curovearth/Dive-into-Electronics/blob/main/PCB%20Designs/09-RGB%20interface/img3.png"/> |    <img width="400" src="https://github.com/Curovearth/Dive-into-Electronics/blob/main/PCB%20Designs/09-RGB%20interface/PCB_view.png"> | 
+| <img width=600 align=center src="https://github.com/Electroversity/Electroverse/blob/main/PCB%20Designs/09-RGB%20interface/img2.png"/><br><img width=600 align=center src="https://github.com/Electroversity/Electroverse/blob/main/PCB%20Designs/09-RGB%20interface/img3.png"/> |    <img width="400" src="https://github.com/Electroversity/Electroverse/blob/main/PCB%20Designs/09-RGB%20interface/PCB_view.png"> | 
  
 </div>
 

@@ -1,7 +1,7 @@
 <h1>Flex Sensor control over Servo Motor</h1>
 
 <div>
-    <img width=650 align=right src="https://github.com/Curovearth/Dive-into-Electronics/blob/main/Basics%202/13-Flex%20Sensor%20with%20Servo/flex%20sensor.gif">
+    <img width=650 align=right src="https://github.com/Electroversity/Electroverse/blob/main/Basics%202/13-Flex%20Sensor%20with%20Servo/flex%20sensor.gif">
     <p>The following deals with the use of a 5.5cm Flex sensor which is interfaced with Servo Motor. Now, flex sensor acts as a variable resistor that varies its resistance when bent.</p><br>When the sensor is straight, this resistance is about 25k.<br><br>
     <p>Have Fun !</p>
 </div>  <br><br>     

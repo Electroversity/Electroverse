@@ -1,7 +1,7 @@
 <h1>Capacitance Meter for 1uF-4700uF</h1>
 
 <div>
-  <img width=650 align=right src="https://github.com/Curovearth/Dive-into-Electronics/blob/main/Intermediate%202/04-Capacitance%20Meter/capacitance%20meter.gif">
+  <img width=650 align=right src="https://github.com/Electroversity/Electroverse/blob/main/Intermediate%202/04-Capacitance%20Meter/capacitance%20meter.gif">
   <p>Here we deal with capacitance meter which displays the capacitance value in the LCD and we can use any value of capacitance between the range of 0uF to 4700uF.</p>
      
   

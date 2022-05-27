@@ -1,7 +1,7 @@
 <h1>Staircase Lighting using PIR</h1>
 
 <div>
-    <img width=600 align=right src="https://github.com/Curovearth/Dive-into-Electronics/blob/main/Intermediate%201/03-Staircase%20Lighting%20using%20PIR/lighting.gif">
+    <img width=600 align=right src="https://github.com/Electroversity/Electroverse/blob/main/Intermediate%201/03-Staircase%20Lighting%20using%20PIR/lighting.gif">
     <p>The following is an attempt to interface PIR or Passive Infrared sensor with a Bulb indicating an <i>automatic staircase lighting system</i> where we detect any movement with the help of PIR sensor and accordingly glow the Bulb while no glow would be observed when no movement is detected.<br></br>The detection is further printed on to the serial monitor as displayed in the gif.</p>
     
   <h3>PIR configuration</h3>
@@ -16,7 +16,7 @@
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | 
 | GND | VCC | Contrast Adj | Register Select(Digital pin) | Read Write(GND) | Data Enable(Digital pin) | D0 | D1 | D2 | D3 | D4(Digital Pin) | D5(Digital Pin) | D6(Digital Pin) | D7(Digital Pin) | LED+ | LED-(Use a Resistor) | 
     
-  <img width=700 align=right src="https://github.com/Curovearth/Dive-into-Electronics/blob/main/Intermediate%201/03-Staircase%20Lighting%20using%20PIR/connection.png">  
+  <img width=700 align=right src="https://github.com/Electroversity/Electroverse/blob/main/Intermediate%201/03-Staircase%20Lighting%20using%20PIR/connection.png">  
   <h3>Components Required</h3>
   <ol>
     <li>1x PIR sensor</li>

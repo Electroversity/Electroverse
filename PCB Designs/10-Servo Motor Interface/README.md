@@ -1,7 +1,7 @@
 <h1>Servo Motor Interface</h1>
 
 <div>
-   <img width=350 align=right src="https://github.com/Curovearth/Dive-into-Electronics/blob/main/PCB%20Designs/10-Servo%20Motor%20Interface/img1.png"/>
+   <img width=350 align=right src="https://github.com/Electroversity/Electroverse/blob/main/PCB%20Designs/10-Servo%20Motor%20Interface/img1.png"/>
    <p>Implementation of a servo pcb which is an actuator that rotates to a precise angle through command. <br><br>Here are some of the visuals of PCB designed<br>
         
    Have Fun !
@@ -17,7 +17,7 @@
    
 | <h3>A view of the 3D file</h2> | <h3>Schematic Diagram for PCB</h3> |      
 | --- | --- |
-| <img width=600 align=center src="https://github.com/Curovearth/Dive-into-Electronics/blob/main/PCB%20Designs/10-Servo%20Motor%20Interface/img2.png"/><br><img width=600 align=center src="https://github.com/Curovearth/Dive-into-Electronics/blob/main/PCB%20Designs/10-Servo%20Motor%20Interface/img3.png"/> |    <img width="400" src="https://github.com/Curovearth/Dive-into-Electronics/blob/main/PCB%20Designs/10-Servo%20Motor%20Interface/pcb_view.png"> | 
+| <img width=600 align=center src="https://github.com/Electroversity/Electroverse/blob/main/PCB%20Designs/10-Servo%20Motor%20Interface/img2.png"/><br><img width=600 align=center src="https://github.com/Electroversity/Electroverse/blob/main/PCB%20Designs/10-Servo%20Motor%20Interface/img3.png"/> |    <img width="400" src="https://github.com/Electroversity/Electroverse/blob/main/PCB%20Designs/10-Servo%20Motor%20Interface/pcb_view.png"> | 
  
 </div>
 

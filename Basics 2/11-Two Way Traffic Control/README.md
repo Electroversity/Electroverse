@@ -1,7 +1,7 @@
 <h1>Two Way Traffic Control</h1>
 
 <div>
-    <img width=500 align=right src="https://github.com/Curovearth/Dive-into-Electronics/blob/main/Basics%202/11-Two%20Way%20Traffic%20Control/traffic%20control.png">
+    <img width=500 align=right src="https://github.com/Electroversity/Electroverse/blob/main/Basics%202/11-Two%20Way%20Traffic%20Control/traffic%20control.png">
     <p>The following circuit deals with the implementation of a Two Way traffic control scenario wherein we let the passengers walk depending on the colour of light.<br><br>Just to make sure here Blue light indicates the passenger is allowed to walk and the RED led placed next to it indicates that the person isn't allowed or soon it's going to be a GREEN light for the cars.</p>
 </div>       
  

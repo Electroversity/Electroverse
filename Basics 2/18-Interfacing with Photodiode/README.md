@@ -1,7 +1,7 @@
 <h1>Interfacing with PhotoDiode</h1>
 
 <div>
-    <img width=650 align=right src="https://github.com/Curovearth/Dive-into-Electronics/blob/main/Basics%202/18-Interfacing%20with%20Photodiode/photodiode.gif">
+    <img width=650 align=right src="https://github.com/Electroversity/Electroverse/blob/main/Basics%202/18-Interfacing%20with%20Photodiode/photodiode.gif">
     <p>Here we deal with interfacing a PhotoDiode with an Arduino and indicating it's different levels via led glow. Photodiodes are faster and more complex than normal PN junction diode and hence are frequently used for lighting regulation and optical communication.<br><br>
   Have Fun !</p>
     

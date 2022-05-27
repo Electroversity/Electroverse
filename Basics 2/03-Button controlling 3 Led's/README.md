@@ -1,7 +1,7 @@
 <h1>Button controlling 3 LEDs</h1>
 
 <div>
-    <img width=380 align=right src="https://github.com/Curovearth/Dive-into-Electronics/blob/main/Basics%202/03-Button%20controlling%203%20Led's/button%20and%20led's.png">
+    <img width=380 align=right src="https://github.com/Electroversity/Electroverse/blob/main/Basics%202/03-Button%20controlling%203%20Led's/button%20and%20led's.png">
     <p>Using LEDs and a button for making the led on when pressed and off when not pressed. Here, regardless of what side the resistor is placed on, it limits the amount of current that flows through LED.<br><br>
         
       

@@ -1,7 +1,7 @@
 <h1>Resistance Meter</h1>
 
 <div>
-  <img width=650 align=right src="https://github.com/Curovearth/Dive-into-Electronics/blob/main/Intermediate%201/05-Resistance%20Meter/resistance%20meter.png">
+  <img width=650 align=right src="https://github.com/Electroversity/Electroverse/blob/main/Intermediate%201/05-Resistance%20Meter/resistance%20meter.png">
   <p>Here we wish to determine the resistance of an unknown resistor using the Voltage Divider Network formula which gives out the value of unknown resistance.</p><br>
      
   <p>Have Fun</p>

@@ -1,7 +1,7 @@
 <h1>Charging a Capacitor</h1>
 
 <div>
-    <img width=550 align=right src="https://github.com/Curovearth/Dive-into-Electronics/blob/main/Basics%202/16-Charging%20Capacitor/capacitor.gif">
+    <img width=550 align=right src="https://github.com/Electroversity/Electroverse/blob/main/Basics%202/16-Charging%20Capacitor/capacitor.gif">
     <p>The following circuit deals with the interface of a capacitor with 9v battery via push buttons and the voltage accross them is observed through multimeters.<br> The right push button resets evertime whereas the left push button when pressed, there's an increase in voltage across the capacitor and a simultaneous decrease across the resistor.</p>
     <p>Have Fun !</p>
     <p>We don't require any code!</p>

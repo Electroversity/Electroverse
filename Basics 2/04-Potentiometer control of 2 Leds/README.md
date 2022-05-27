@@ -1,7 +1,7 @@
 <h1>Potentiometer control - Opposite Effect</h1>
 
 <div>
-    <img width=450 align=right src="https://github.com/Curovearth/Dive-into-Electronics/blob/main/Basics%202/04-Potentiometer%20control%20of%202%20Leds/potentiometer%20control.png">
+    <img width=450 align=right src="https://github.com/Electroversity/Electroverse/blob/main/Basics%202/04-Potentiometer%20control%20of%202%20Leds/potentiometer%20control.png">
     <p>In this program what we are doing is trying to display an opposite effect on Leds with a potentiometer control over them. Now by opposite effect we mean to display that when potentiometer reaches maximum value one of the led glows while the other dims out completely.<br><br>
         Make sure to remember the pins of Potentiometer i.e.,</p>
 </div>       

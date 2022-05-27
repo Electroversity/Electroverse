@@ -1,7 +1,7 @@
 <h1>Temperature Sensor</h1>
 
 <div>
-    <img width=500 align=right src="https://github.com/Curovearth/Dive-into-Electronics/blob/main/Basics%201/09-Temperature%20Sensor/Temperature%20sensor.png">
+    <img width=500 align=right src="https://github.com/Electroversity/Electroverse/blob/main/Basics%201/09-Temperature%20Sensor/Temperature%20sensor.png">
     <p>A temperature sensor is a 3 pin sensor, operated on 4 to 20 volt. It gives output in voltage according to the temperature. 10 milli volts per degree Celsius is the output format of the sensor.<br><br>
         The 3 pins signify (from right to left)
       <ol>

@@ -1,7 +1,7 @@
 <h1>2 Seven Segment Display Interface</h1>
 
 <div>
-    <img width=500 align=right src="https://github.com/Curovearth/Dive-into-Electronics/blob/main/Intermediate%201/04-2%20SSD%20Counter/2ssd.gif">
+    <img width=500 align=right src="https://github.com/Electroversity/Electroverse/blob/main/Intermediate%201/04-2%20SSD%20Counter/2ssd.gif">
     <p>Here we have made a counter till 99 using 2 Seven segment displays. Additionally we have used 2 pnp transistors connected to each of the segment display.<br><br>The only catch in the following circuit to represent the numbers in the segment display is that we have defined an array where we have described each number's i.e., from 0-9 a,b,c,d,e,f,g values which you can see in the code represented in 1 or 0</p>
     <p>Have Fun !</p>
 </div>  <br>   
