@@ -8,7 +8,7 @@
       
   Have Fun !</p>
     <br>
-    <img width=650 align=right src="https://github.com/Zayd1602/Dive-into-Electronics/blob/main/Intermediate%201/01-Displaying%20distance%20on%20LED%20according%20to%20Ultrasonic%20distance%20sensor/circ.gif">
+    <img width=650 align=right src="https://github.com/Electroversity/Electroverse/blob/main/Intermediate%201/01-Displaying%20distance%20on%20LED%20according%20to%20Ultrasonic%20distance%20sensor/circ.gif">
   <h3>Components Required</h3>
   <ol>
     <li>3x Ultrasonic Distance sensor 28015</li>

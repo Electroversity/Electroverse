@@ -1,7 +1,7 @@
 <h1>Temperature Alert System</h1>
 
 <div>
-  <img width=650 align=right src="https://github.com/Zayd1602/Dive-into-Electronics/blob/main/Intermediate%202/05-Temperature%20Alert%20System/circ_anim.gif">
+  <img width=650 align=right src="https://github.com/Electroversity/Electroverse/blob/main/Intermediate%202/05-Temperature%20Alert%20System/circ_anim.gif">
   <p>Here we design a temperature monitoring and alert system with the help of temperature sensor, LEDs and LCD display.</p>
   <h3>Problem Statement -</h3>
   <p>Design a system to alert the personnel in an industry to maintain the equipment in a temperature rangen between 45-75°C and turn ON the Green LED. When the temperature is high, turn ON the Red LED. For a low temperature, turn ON the Yellow LED. 
