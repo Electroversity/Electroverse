@@ -1,7 +1,7 @@
 <h1>V-I Characteristics of Zener Diode</h1>
 
 <div>
-    <img width=400 align=right src="https://github.com/Electroversity/Electroverse/blob/main/Basics%201/20-VI%20characteristics%20of%20zener%20diode/zener.gif">
+    <img width=400 align="right" src="https://github.com/Electroversity/Electroverse/blob/main/Basics%201/20-VI%20characteristics%20of%20zener%20diode/zener.gif">
     <p>One of the most basic circuits of a zener diode is its connection with a resistor. The zener diode provides the reference voltage, but a series resistor must be in place to limit the current into the diode otherwise a large amount of current will flow through it and it could be destroyed.<br><br>
     Take the case where a zener diode circuit is used to supply a regulated 5.1 volt from an input voltage supply of 12 volts.<br>
     <ol>
