@@ -1,7 +1,7 @@
 <h1>Moisture sensor</h1>
 
 <div>
-   <img width=450 align=right src="https://github.com/Electroversity/Electroverse/blob/main/PCB%20Designs/44-moisture%20sensor/soil%20moisture%201%20v2.png"/>
+   <img width=400 align=right src="https://github.com/Electroversity/Electroverse/blob/main/PCB%20Designs/44-moisture%20sensor/soil%20moisture%201%20v2.png"/>
    <p>The following PCB represents a Moisture sensor whose output is being shown by respective LEDs.<br><br>Here are some of the visuals of PCB designed<br>
         
    Have Fun !
