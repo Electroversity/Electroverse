@@ -16,7 +16,7 @@
    
 | <h3>A view of the 3D file</h2> | <h3>Schematic Diagram for PCB</h3> |      
 | --- | --- |
-| <img width=600 align=center src="https://github.com/Electroversity/Electroverse/blob/main/PCB%20Designs/44-moisture%20sensor/img1.png"/><br><img width=600 align=center src="https://github.com/Electroversity/Electroverse/blob/main/PCB%20Designs/44-moisture%20sensor/img2.png"/> |    <img width="350" src="https://github.com/Electroversity/Electroverse/blob/main/PCB%20Designs/44-moisture%20sensor/schematics.png"> | 
+| <img width=600 align=center src="https://github.com/Electroversity/Electroverse/blob/main/PCB%20Designs/44-moisture%20sensor/img1.png"/><br><img width=600 align=center src="https://github.com/Electroversity/Electroverse/blob/main/PCB%20Designs/44-moisture%20sensor/img2.png"/> |    <img width="380" src="https://github.com/Electroversity/Electroverse/blob/main/PCB%20Designs/44-moisture%20sensor/schematics.png"> | 
  
 </div>
 
