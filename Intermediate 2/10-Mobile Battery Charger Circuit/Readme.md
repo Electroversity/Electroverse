@@ -28,4 +28,47 @@ In order to **deep dive in depth**, a very nice explanation has been given <a hr
     <li>1x TRAN-2P25: Transformer</li>
   </ol>
 
+<hr>
 
+<h2>Step Down Transformer</h2>
+
+| Circuit | Output |
+| --- | --- |
+| <img src="https://github.com/Electroversity/Electroverse/blob/main/Intermediate%202/10-Mobile%20Battery%20Charger%20Circuit/circuit%20diagrams/circuit1.png"> | <img src="https://github.com/Electroversity/Electroverse/blob/main/Intermediate%202/10-Mobile%20Battery%20Charger%20Circuit/circuit%20diagrams/output1.png"> |
+| **Main Proteus File** | <a href="https://github.com/Electroversity/Electroverse/blob/main/Intermediate%202/10-Mobile%20Battery%20Charger%20Circuit/Proteus/MobileCharger.pdsprj">File</a> |
+
+>Note: In order to view the output on Digital Oscilloscope ➡ Once simulation starts you can view it under **Debug** ➡ **Digital Oscilloscope**
+
+<hr>
+
+<h2>Full Wave Rectification (Bridge Rectifier)</h2>
+
+| Circuit | Output |
+| --- | --- |
+| <img src="https://github.com/Electroversity/Electroverse/blob/main/Intermediate%202/10-Mobile%20Battery%20Charger%20Circuit/circuit%20diagrams/circuit2.png"> | <img src="https://github.com/Electroversity/Electroverse/blob/main/Intermediate%202/10-Mobile%20Battery%20Charger%20Circuit/circuit%20diagrams/output2.png"> |
+| <img src="https://github.com/Electroversity/Electroverse/blob/main/Intermediate%202/10-Mobile%20Battery%20Charger%20Circuit/circuit%20diagrams/circuit2_b.png"> | <img src="https://github.com/Electroversity/Electroverse/blob/main/Intermediate%202/10-Mobile%20Battery%20Charger%20Circuit/circuit%20diagrams/output2_b.png"> |
+| **Main Proteus File** | <a href="https://github.com/Electroversity/Electroverse/blob/main/Intermediate%202/10-Mobile%20Battery%20Charger%20Circuit/Proteus/fullbridgerectification.pdsprj">File</a> |
+
+>Note: In order to view the output on Digital Oscilloscope ➡ Once simulation starts you can view it under **Debug** ➡ **Digital Oscilloscope**
+
+<hr>
+
+<h2>Capacitive Filtering</h2>
+
+| Circuit | Output |
+| --- | --- |
+| <img src="https://github.com/Electroversity/Electroverse/blob/main/Intermediate%202/10-Mobile%20Battery%20Charger%20Circuit/circuit%20diagrams/circuit3.png"> | <img src="https://github.com/Electroversity/Electroverse/blob/main/Intermediate%202/10-Mobile%20Battery%20Charger%20Circuit/circuit%20diagrams/output3.png"> |
+| **Main Proteus File** | <a href="https://github.com/Electroversity/Electroverse/blob/main/Intermediate%202/10-Mobile%20Battery%20Charger%20Circuit/Proteus/CapacitiveFiltering.pdsprj">File</a> |
+
+>Note: In order to view the output on Digital Oscilloscope ➡ Once simulation starts you can view it under **Debug** ➡ **Digital Oscilloscope**
+
+<hr>
+
+<h2>IC LM7085 Voltage Regulation</h2>
+
+| Circuit | Output |
+| --- | --- |
+| <img src="https://github.com/Electroversity/Electroverse/blob/main/Intermediate%202/10-Mobile%20Battery%20Charger%20Circuit/circuit%20diagrams/circuit4.png"> | <img src="https://github.com/Electroversity/Electroverse/blob/main/Intermediate%202/10-Mobile%20Battery%20Charger%20Circuit/circuit%20diagrams/output4.png"> |
+| **Main Proteus File** | <a href="https://github.com/Electroversity/Electroverse/blob/main/Intermediate%202/10-Mobile%20Battery%20Charger%20Circuit/Proteus/LM7085regulation.pdsprj">File</a> |
+
+>Note: In order to view the output on Digital Oscilloscope ➡ Once simulation starts you can view it under **Debug** ➡ **Digital Oscilloscope**
