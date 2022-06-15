@@ -1,7 +1,7 @@
 <h1>Oscilloscope using LCD</h1>
 
 <div>
-   <img width=400 align=right src="https://github.com/Electroversity/Electroverse/blob/main/PCB%20Designs/44-moisture%20sensor/soil%20moisture%201%20v2.png"/>
+   <img width=400 align=right src="https://github.com/Electroversity/Electroverse/blob/main/PCB%20Designs/45-Oscilloscope%20using%20LCD/oscilloscope%20v4.png"/>
    <p>The following PCB represents a Oscilloscope whose output is being shown by respective 16X2 LCD screen.<br><br>Here are some of the visuals of PCB designed<br>
         
    Have Fun !
@@ -16,7 +16,7 @@
    
 | <h3>A view of the 3D file</h2> | <h3>Schematic Diagram for PCB</h3> |      
 | --- | --- |
-| <img width=600 align=center src="https://github.com/Electroversity/Electroverse/blob/main/PCB%20Designs/44-moisture%20sensor/img1.png"/><br><img width=600 align=center src="https://github.com/Electroversity/Electroverse/blob/main/PCB%20Designs/44-moisture%20sensor/img2.png"/> |    <img width="380" src="https://github.com/Electroversity/Electroverse/blob/main/PCB%20Designs/44-moisture%20sensor/schematics.png"> | 
+| <img width=500 align=center src="https://github.com/Electroversity/Electroverse/blob/main/PCB%20Designs/45-Oscilloscope%20using%20LCD/img1.png"/><br><img width=500 align=center src="https://github.com/Electroversity/Electroverse/blob/main/PCB%20Designs/45-Oscilloscope%20using%20LCD/img2.png"/> |    <img width="380" src="https://github.com/Electroversity/Electroverse/blob/main/PCB%20Designs/45-Oscilloscope%20using%20LCD/schematics.png"> | 
  
 </div>
 
