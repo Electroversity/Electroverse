@@ -1,14 +1,20 @@
-# Electroverse
+
+<img align=right src="https://github.com/Electroversity/Electroverse/blob/main/Img%20Logo/logo_color.png" width="300">
+
+# Electroverse ⚡
 
 <!-------------------- Badges --------------------->
+<!-- 
+- repo size
+- contributions welcome
+--->
 
 <!-------------------- Summary -------------------->
+The Vision for this repository is to engage people be it young students or adults in diving into the realm of Electronics starting with the basic development board i.e., using **Arduino**.
 
 
-check1
-
-## Contents
-
+## $\gg$ Contents
+- [**Learn and Contribute**](https://github.com/Electroversity/Electroverse/edit/main/README.md#learn-and-contribute)
 - [**Basics 1**](https://github.com/Electroversity/Electroverse/tree/main/Basics%201) $\rightarrow$ <samp>Play along individual components.</samp>
   
   <details>
@@ -91,12 +97,16 @@ check1
     <li><a href="https://github.com/Electroversity/Electroverse/tree/main/Intermediate%202/10-Mobile%20Battery%20Charger%20Circuit#readme"> Mobile Charger Circuit </a></li>
   </ol>
   </details>
-- [**Your Contribution is Necessary**](https://github.com/Electroversity/Electroverse/blob/main/CONTRIBUTING.md)
+
 - [**License**](https://github.com/Electroversity/Electroverse/edit/main/README.md#license--)
 
 
 <hr>
-<h2>License 🗝 </h2>
+<h2> $\gg$ Learn and Contribute ✨</h2>
+
+Checkout the contribution guidelines [here](https://github.com/Electroversity/Electroverse/blob/main/CONTRIBUTING.md).
+
+<h2> $\gg$ License 🗝 </h2>
 
 Do check it out [here](https://github.com/Electroversity/Electroverse/blob/main/LICENSE.md).
 
