@@ -1,10 +1,15 @@
 # Electroverse
-badges and summary
+
+<!-------------------- Badges --------------------->
+
+<!-------------------- Summary -------------------->
+
+
 check1
 
 ## Contents
 
-- Basics 1
+- [**Basics 1**](https://github.com/Electroversity/Electroverse/tree/main/Basics%201) $\rightarrow$ <samp>Play along individual components.</samp>
   
   <details>
   <ol type='1'>
@@ -32,7 +37,7 @@ check1
   </ol>
   </details>
   
-- Basics 2
+- [**Basics 2**](https://github.com/Electroversity/Electroverse/tree/main/Basics%202) $\rightarrow$ <samp>Interconnection amongst two or more components.</samp>
 
   <details>
   <ol type='1'>
@@ -59,7 +64,7 @@ check1
   </ol>
   </details>
 
-- Intermediate 1
+- [**Intermediate 1**](https://github.com/Electroversity/Electroverse/tree/main/Intermediate%201) $\rightarrow$ <samp>Building up some basic systems.</samp>
 
   <details>
   <ol type='1'>
@@ -71,7 +76,7 @@ check1
   </ol>
   </details>
 
-- Intermediate 2
+- [**Intermediate 2**](https://github.com/Electroversity/Electroverse/tree/main/Intermediate%202) $\rightarrow$ <samp>Spicing up by building complex system.</samp>
   <details>
   <ol type='1'>
     <li><a href="https://github.com/Electroversity/Electroverse/tree/dcba0dd8fa1e12158e94ec12c3a4dc2ee42455bf/Intermediate%201/01-Displaying%20distance%20on%20LED%20according%20to%20Ultrasonic%20distance%20sensor"> Smart Parking System</a></li>
@@ -86,6 +91,15 @@ check1
     <li><a href="https://github.com/Electroversity/Electroverse/tree/main/Intermediate%202/10-Mobile%20Battery%20Charger%20Circuit#readme"> Mobile Charger Circuit </a></li>
   </ol>
   </details>
+- [**Your Contribution is Necessary**](https://github.com/Electroversity/Electroverse/blob/main/CONTRIBUTING.md)
+- [**License**](https://github.com/Electroversity/Electroverse/edit/main/README.md#license--)
+
+
+<hr>
+<h2>License 🗝 </h2>
+
+Do check it out [here](https://github.com/Electroversity/Electroverse/blob/main/LICENSE.md).
+
 
 ### What all is left?
 
