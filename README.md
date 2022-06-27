@@ -102,6 +102,7 @@ The Vision for this repository is to engage people be it young students or adult
 
 <h2> $\gg$ Learn and Contribute ✨</h2>
 <!-- Add some learning links and a bit about how to start-->
+
 Checkout the contribution guidelines [here](https://github.com/Electroversity/Electroverse/blob/main/CONTRIBUTING.md).
 
 <h2> $\gg$ License 🗝 </h2>
