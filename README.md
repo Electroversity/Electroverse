@@ -1,9 +1,15 @@
 
-<img align=right src="https://github.com/Electroversity/Electroverse/blob/main/Img%20Logo/logo_color.png" width="300">
+<img align=right src="https://github.com/Electroversity/Electroverse/blob/main/Img%20Logo/logo_color.png" width="250">
 
 # Electroverse ⚡
 
 <!-------------------- Badges --------------------->
+<a href="https://github.com/Electroversity/Electroverse/blob/main/CONTRIBUTING.md">
+    <img src="https://img.shields.io/static/v1.svg?label=Contributions&message=Welcome&color=0059b3&style=flat-square" height="20" alt="Contributions Welcome">
+</a>
+<a href="https://github.com/Electroversity/Electroverse/blob/main/LICENSE.md">
+  <img src="https://img.shields.io/static/v1.svg?label=license&message=MIT&color=0059b3&style=flat-square" height="20" alt="license">
+</a>
 <!-- 
 - repo size
 - contributions welcome
@@ -102,6 +108,21 @@ The Vision for this repository is to engage people be it young students or adult
 
 <h2> $\gg$ Learn and Contribute ✨</h2>
 <!-- Add some learning links and a bit about how to start-->
+
+The aim of this repository is for people to learn and contribute simultaneously. Here are some helpful links to get you started with the learning process
+- A curated list of <a href="https://github.com/kitspace/awesome-electronics"> awesome resources </a>
+- Arduino Learning 
+  - <a href="https://www.arduino.cc/en/Tutorial/HomePage">Official Arduino Site</a>
+  - <a href="https://learn.adafruit.com/">Adafruit Learn</a>
+  - <a href="https://learn.sparkfun.com/tutorials/tags/arduino?page=all">Sparkfun Learn</a>
+- Courses
+  <details>
+  <summary><em>Awesome courses to refer</em></summary>
+  
+  <!-- To put some good courses for learning -->
+    - [freecodecamp](https://www.youtube.com/watch?v=zJ-LqeX_fLU)
+  
+  </details>
 
 Checkout the contribution guidelines [here](https://github.com/Electroversity/Electroverse/blob/main/CONTRIBUTING.md).
 
