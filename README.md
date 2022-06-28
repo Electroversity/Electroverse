@@ -5,8 +5,9 @@
 
 <!-------------------- Badges --------------------->
 <a href="https://github.com/Electroversity/Electroverse/blob/main/CONTRIBUTING.md">
-    <img src="https://img.shields.io/static/v1.svg?label=Contributions&message=Welcome&color=0059b3&style=flat-square" height="20" alt="Contributions Welcome">
-</a>
+    <img src="https://img.shields.io/static/v1.svg?label=Contributions&message=Welcome&color=0059b3&style=flat-square" height="20" alt="Contributions Welcome"></a>
+<a href="https://github.com/Electroversity/Electroverse/graphs/contributors" alt="Contributors">
+    <img src="https://img.shields.io/github/contributors/Electroversity/Electroverse" /></a>
 <a href="https://github.com/Electroversity/Electroverse/blob/main/LICENSE.md">
   <img src="https://img.shields.io/static/v1.svg?label=license&message=MIT&color=0059b3&style=flat-square" height="20" alt="license">
 </a>
