@@ -104,6 +104,7 @@ The Vision for this repository is to engage people be it young students or adult
   </ol>
   </details>
 
+- [**Directory.md**](https://github.com/Electroversity/Electroverse/blob/main/DIRECTORY.md) $\rightarrow$ <samp>All the files at one place</samp>
 - [**License**](https://github.com/Electroversity/Electroverse/edit/main/README.md#license--)
 
 <h2> $\gg$ Learn and Contribute ✨</h2>
@@ -142,9 +143,13 @@ The aim of this repository is for people to learn and contribute simultaneously.
   
   </details>
 
+<hr>
+
+Electroverse is a community project. We invite participation through issues and pull requests!
+
 We look forward to seeing contributions from a huge number of electronics enthusiasts. 
 
-> 🙌 Checkout the contribution guidelines [here](https://github.com/Electroversity/Electroverse/blob/main/CONTRIBUTING.md) in detail.
+> 🙌 **Checkout the contribution guidelines** [**here**](https://github.com/Electroversity/Electroverse/blob/main/CONTRIBUTING.md) in detail.
 
 <h2> $\gg$ License 🗝 </h2>
 
