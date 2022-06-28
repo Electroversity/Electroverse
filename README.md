@@ -107,14 +107,23 @@ The Vision for this repository is to engage people be it young students or adult
 - [**License**](https://github.com/Electroversity/Electroverse/edit/main/README.md#license--)
 
 <h2> $\gg$ Learn and Contribute ✨</h2>
+<img align=right src="https://github.com/Electroversity/Electroverse/blob/main/Img%20Logo/logo_black.png" alt="logo-bw" width="250">
+
 <!-- Add some learning links and a bit about how to start-->
 
 The aim of this repository is for people to learn and contribute simultaneously. Here are some helpful links to get you started with the learning process
 - A curated list of <a href="https://github.com/kitspace/awesome-electronics"> awesome resources </a>
 - Arduino Learning 
-  - <a href="https://www.arduino.cc/en/Tutorial/HomePage">Official Arduino Site</a>
-  - <a href="https://learn.adafruit.com/">Adafruit Learn</a>
-  - <a href="https://learn.sparkfun.com/tutorials/tags/arduino?page=all">Sparkfun Learn</a>
+    <details>
+    <summary><em>Helpful Links</em></summary>
+    
+  <!-- To put helpful links -->
+     - [Official Arduino Site](https://www.arduino.cc/en/Tutorial/HomePage)
+     - [Adafruit Learn](https://learn.adafruit.com/)
+     - [Sparkfun Learn](https://learn.sparkfun.com/tutorials/tags/arduino?page=all)
+
+    </details>
+    
 - Courses
   <details>
   <summary><em>Awesome courses to refer</em></summary>
@@ -123,15 +132,21 @@ The aim of this repository is for people to learn and contribute simultaneously.
     - [freecodecamp](https://www.youtube.com/watch?v=zJ-LqeX_fLU)
   
   </details>
+  
+- Books
+  <details>
+  <summary><em>Awesome books to have fun</em></summary>
+  
+  <!-- To put some good books for reference -->
+    - [Arduino Starter Guide](https://www.amazon.in/Arduino-Starter-Guide-Kunwar-Imran/dp/9352673425): <em>by Kunwar Imran</em>
+  
+  </details>
 
-Checkout the contribution guidelines [here](https://github.com/Electroversity/Electroverse/blob/main/CONTRIBUTING.md).
+We look forward to seeing contributions from a huge number of electronics enthusiasts. 
+
+> 🙌 Checkout the contribution guidelines [here](https://github.com/Electroversity/Electroverse/blob/main/CONTRIBUTING.md) in detail.
 
 <h2> $\gg$ License 🗝 </h2>
 
-Do check it out [here](https://github.com/Electroversity/Electroverse/blob/main/LICENSE.md).
+Do check out [MIT license](https://github.com/Electroversity/Electroverse/blob/main/LICENSE.md).
 
-
-### What all is left?
-
-- [ ] Site creation
-- [ ] Documentation in terms of readme file to be made
