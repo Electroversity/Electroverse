@@ -11,13 +11,11 @@
 <a href="https://github.com/Electroversity/Electroverse/blob/main/LICENSE.md">
   <img src="https://img.shields.io/static/v1.svg?label=license&message=MIT&color=0059b3&style=flat-square" height="20" alt="license">
 </a>
-<!-- 
-- repo size
-- contributions welcome
---->
+
+[![Gitter](https://badges.gitter.im/Electroversity-org/community.svg)](https://gitter.im/Electroversity-org/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
 
 <!-------------------- Summary -------------------->
-The Vision for this repository is to engage people be it young students or adults in diving into the realm of Electronics starting with the basic development board i.e., using **Arduino**.
+The Vision for this repository is to engage people be it young students or adults in diving into the realm of Electronics starting with the basic development board i.e., using **Arduino**. Repository welcomes community based contributions in terms of new circuit builds and programs.
 
 
 ## $\gg$ Contents
@@ -106,6 +104,7 @@ The Vision for this repository is to engage people be it young students or adult
   </details>
 
 - [**Directory.md**](https://github.com/Electroversity/Electroverse/blob/main/DIRECTORY.md) $\rightarrow$ <samp>All the files at one place</samp>
+- [**Softwares Used**](https://github.com/Electroversity/Electroverse/edit/main/README.md#softwares-used)
 - [**License**](https://github.com/Electroversity/Electroverse/edit/main/README.md#license--)
 
 <h2> $\gg$ Learn and Contribute ✨</h2>
@@ -150,9 +149,21 @@ Electroverse is a community project. We invite participation through issues and 
 
 We look forward to seeing contributions from a huge number of electronics enthusiasts. 
 
-> 🙌 **Checkout the contribution guidelines** [**here**](https://github.com/Electroversity/Electroverse/blob/main/CONTRIBUTING.md) in detail.
+<div align=right>
 
-<h2> $\gg$ License 🗝 </h2>
+### 🙌 [**Contribute to Electroverse**](https://github.com/Electroversity/Electroverse/blob/main/CONTRIBUTING.md)
+
+</div>
+
+## Softwares Used
+
+There is no boundary in using any particular software but we have mentioned the softwares which we started with below:
+- [TinkerCad](https://www.tinkercad.com/)
+- [Proteus](https://www.labcenter.com/)
+- [Autodesk Fusion 360](https://asean.autodesk.com/products/fusion-360/overview) for 3D PCB
+- [Fritzing](https://fritzing.org/)
+
+## $\gg$ License 🗝
 
 Do check out [MIT license](https://github.com/Electroversity/Electroverse/blob/main/LICENSE.md).
 
