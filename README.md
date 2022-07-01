@@ -149,7 +149,7 @@ Electroverse is a community project. We invite participation through issues and 
 
 We look forward to seeing contributions from a huge number of electronics enthusiasts. 
 
-<div align=right>
+<div align=center>
 
 ### 🙌 [**Contribute to Electroverse**](https://github.com/Electroversity/Electroverse/blob/main/CONTRIBUTING.md)
 
