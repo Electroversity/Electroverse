@@ -1,6 +1,5 @@
 
-
-## Contributing to Electroverse 👋
+## Contributing to Electroverse 👋 
 
 Hey! We are assuming that you are excited to contribute to this repository. Thankyou for investing your time to contribute to this community driven repository.
 
@@ -42,3 +41,6 @@ Scan through our [existing issues](https://github.com/Electroversity/Electrovers
 
 > 📍 Are you new to Pull requests? Head over to the [PR documentation](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests).
 
+<hr>
+<h3 align=center> Join <a href="https://gitter.im/Electroversity-org/community?utm_source=share-link&utm_medium=link&utm_campaign=share-link"><img src="https://badges.gitter.im/Electroversity-org/community.svg"></a> Now </h3>
+<hr>
