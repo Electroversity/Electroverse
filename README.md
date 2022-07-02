@@ -15,7 +15,7 @@
 [![Gitter](https://badges.gitter.im/Electroversity-org/community.svg)](https://gitter.im/Electroversity-org/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
 
 <!-------------------- Summary -------------------->
-The Vision for this repository is to engage people be it young students or adults in diving into the realm of Electronics starting with the basic development board i.e., using **Arduino**. Repository welcomes community based contributions in terms of new circuit builds and programs.
+The Vision for this repository is to engage people, be it young students or adults, in diving into the realm of Electronics starting with the basic development board i.e., using **Arduino**. Repository welcomes community based contributions in terms of new circuit builds and programs.
 
 
 ## $\gg$ Contents
