@@ -155,9 +155,9 @@ We look forward to seeing contributions from a huge number of electronics enthus
 
 </div>
 
-## Softwares Used
+## Software Used
 
-There is no boundary in using any particular software but we have mentioned the softwares which we started with below:
+There is no boundary in using any particular software but we have mentioned the software which we started with below:
 - [TinkerCad](https://www.tinkercad.com/)
 - [Proteus](https://www.labcenter.com/)
 - [Autodesk Fusion 360](https://asean.autodesk.com/products/fusion-360/overview) for 3D PCB
