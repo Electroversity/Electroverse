@@ -1,7 +1,7 @@
 
 ## Contributing to Electroverse 👋 
 
-Hey! We are glad that you are here, ready to contribute to this community driven repository?.
+Hey! We are glad that you are here, ready to contribute to this community driven repository?
 
 ## 💡 Let's Contribute
 
