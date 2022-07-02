@@ -155,7 +155,7 @@ We look forward to seeing contributions from a huge number of electronics enthus
 
 </div>
 
-## Software Used
+## $\gg$ Software Used
 
 There is no boundation of using a particular software but we recommend these:
 - [TinkerCad](https://www.tinkercad.com/)
